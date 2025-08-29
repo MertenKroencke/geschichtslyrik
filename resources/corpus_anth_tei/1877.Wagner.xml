@@ -1,0 +1,3661 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wilhelm Wagner (Hg.): A Book of Ballads on German History. Arranged and Annotated, Cambridge 1877.</title>
+				<principal>Merten Kröncke</principal>
+				<respStmt>
+					<resp>OCR und Struktur</resp>
+					<name>Merten Kröncke</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>
+					<orgName />
+					<date when="2021" />
+				</authority>
+				<availability>
+					<p> Lizenzhinweis</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title type="anthology">A Book of Ballads on German History. Arranged and Annotated</title>
+						<editor>Wagner, Wilhelm</editor>
+					</titleStmt>
+					<publicationStmt>
+						<publisher>Cambridge University Press</publisher>
+						<pubPlace>Cambridge</pubPlace>
+						<date when="1877" />
+					</publicationStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Geschichtslyrik-Anthologien</p>
+			</projectDesc>
+			<editorialDecl>
+				<correction>
+					<p />
+				</correction>
+				<normalization>
+					<p />
+				</normalization>
+				<segmentation>
+					<p />
+				</segmentation>
+				<interpretation>
+					<p />
+				</interpretation>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+         </textClass>
+		</profileDesc>
+	</teiHeader>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno n="Geschichtslyrik">1877.Wagner.001</idno>
+					</title>
+					<title n="Geschichtslyrik">Das Grab im Busento</title>
+					<author n="Geschichtslyrik">Platen, August Graf von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Dus Grub im Busents.</head>
+					<l>Nächtlich am Busento lispeln, bei Cosenza, dumpfe Lieder,</l>
+					<l>Aus den Wassern schallt es Antwort und in Wirbeln klingt</l>
+					<l>es wieder!</l>
+					<l>Und den Fluß hinauf — hinunter ziehn die Schatten</l>
+					<l>tapfrer Gothen,</l>
+					<l>Die den Alarich beweinen, ihres Volkes besten Todten.</l>
+					<l>Allzufrüh und fern der Heimat mußten sie ihn hier be</l>
+					<l>graben,</l>
+					<l>Während noch die Jugendlocken seine Schulter blond umgaben,</l>
+					<l>Und am Ufer des Busento reihten sie sich um die Wette;</l>
+					<l>Um die Strömung abzuleiten, gruben sie ein frisches Bette.</l>
+					<l>In der wogenleeren Höhlung wühlten sie empor die Erde,</l>
+					<l>Senkten tief hinein den Leichnam mit der Rüstung auf dem</l>
+					<l>Pferde,</l>
+					<l>Deckten dann mit Erde wieder ihn und seine stolze Habe,</l>
+					<l>Daß die hohen Stromgewächse wüchsen aus dem Heldengrabe.</l>
+					<l>Abgelenkt zum zweitenmale, ward der Fluß herbeigezogen;</l>
+					<l>Mächtig in ihr altes Bette schäumten die Busentowogen.</l>
+					<l>Und es sang ein Chor von Männern: Schlaf in deinen</l>
+					<l>Heldenehren,</l>
+					<l>Keines: omers schnöde Habsucht soll dir je dein Grab</l>
+					<l>veisehrei?.:.</l>
+					<l>Sangen’s, und die Lobgesänge tönten fort im Gothenheere!</l>
+					<l>Wälze sie, Busentowelle, wälze sie von Meer zu Meere.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.002</idno>
+					</title>
+					<title n="Geschichtslyrik">Die Schlacht bei Zülpich</title>
+					<author n="Geschichtslyrik">Simrock, Karl</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Schluacht bei Zülpich.</head>
+					<l>Chlodewig, der Frankenkönig, sah in Zülpichs heißer Schlacht,</l>
+					<l>Daß die Alemannen siegten durch der Volkszahl Uebermacht.</l>
+					<l>Plötzlich aus des Kampf’s Gedränge hebt er sich auf stolzem</l>
+					<l>Und man sah ihn herrlich ragen vor den Edlen, vor dem Troß.</l>
+					<l>Beide Arme, beide Hände hält er hoch empor zum Schwur, 5</l>
+					<l>Ruft mit seiner Eisenstimme, daß es durch die Reihen fuhr:</l>
+					<l>Gott der Christen, Gott am Kreuze, Gott, den mein Gemahl</l>
+					<l>verehrt,</l>
+					<l>So du bist ein Gott der Schlachten, der im Schrecken nieder—</l>
+					<l>fährt,</l>
+					<l>Hilf mir dieses Volk bezwingen, gib den Sieg in meine Hand,</l>
+					<l>Daß der Franken Macht erkennen muß des Rheins, des</l>
+					<l>Neckars Strand!</l>
+					<l>Sieh, so will ich an dich glauben, Kirchen und Kapellen bau’n,</l>
+					<l>Und die edlen Franken lehren, keinem Gott als dir vertrau’n.</l>
+					<l>Sprach es, und aus Wolken leuchtend bricht der Sonne voller</l>
+					<l>Strahl,</l>
+					<l>Frischer Muth belebt die Herzen, füllt des schwachen Häufleins</l>
+					<l>Zahl.</l>
+					<l>Chlodwig selbst ergriff das Banner, trug es in der Feinde</l>
+					<l>Reih’n,</l>
+					<l>Und die Franken siegesmuthig stürzen jauchzend hinterdrein;</l>
+					<l>Schreck ergreift der Feinde Rotten, feige wenden sie und fliehn,</l>
+					<l>All ihr Kriegsruhm ist erloschen, ihre Macht und Freiheit hin.</l>
+					<l>König Chlodwig ließ sich taufen, und sein edles Volk zugleich,</l>
+					<l>Und vor allen deutschen Stämmen mächtig ward der Franken</l>
+					<l>Reich.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.003</idno>
+					</title>
+					<title n="Geschichtslyrik">Gelimer</title>
+					<author n="Geschichtslyrik">Kopisch, August</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Gelimer.</head>
+					<l>Wo ist dein Reich, o Gelimer,</l>
+					<l>Das große Vandalenreich?</l>
+					<l>Dein Heer, es irrt zerstreut umher;</l>
+					<l>Wo fliehst du hin so bleich?</l>
+					<l>Und als er zu den Maurusiern kam,</l>
+					<l>Die hatten nicht Brod, nicht Wein,</l>
+					<l>Wie man die Aehre vom Felde nahm,</l>
+					<l>So mußte sie Speise sein.</l>
+					<l>Auf einem Berge wohnet er,</l>
+					<l>Da war an Wasser Noth,</l>
+					<l>Auch nahete der Griechen Heer</l>
+					<l>Und drohte rings mit Tod.</l>
+					<l>Und einen Boten sandt’ er hin</l>
+					<l>Zum Feind, als nah er kam,</l>
+					<l>Und bat um eine Laute ihn,</l>
+					<l>Um Brod und einen Schwamm.</l>
+					<l>Pharas, des Heeres Hüter, fragt:</l>
+					<l>Sonst sprach er nichts dabei?</l>
+					<l>Er soll sie haben, aber sagt:</l>
+					<l>Wozu will er die Drei?</l>
+					<l>Das Brod will essen Gelimer,</l>
+					<l>Weil keines er gesehn,</l>
+					<l>Seitdem mit wunden Füßen er</l>
+					<l>In die Berge mußte gehn.</l>
+					<l>Den Schwamm mit Wasser will er han</l>
+					<l>Zu waschen die Augen sein:</l>
+					<l>Es kam schon lange kein Wasser daran</l>
+					<l>Als seine Thränen allein.</l>
+					<l>Die Laute soll ein Trost ihm sein</l>
+					<l>In dieser schweren Zeit,</l>
+					<l>Drauf will er spielen und singen darein</l>
+					<l>Ein Lied von seinem Leid.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.004</idno>
+					</title>
+					<title n="Geschichtslyrik">Pipin der Kurze</title>
+					<author n="Geschichtslyrik">Baur, Karl</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">ipin der urze.</head>
+					<l>Pipin der Kurze war nicht groß,</l>
+					<l>Doch Karls des Großen Vater,</l>
+					<l>In aller Weise fehlerlos,</l>
+					<l>Ein treuer Volksberather,</l>
+					<l>Der beste Held im Frankenreich,</l>
+					<l>Der Kirche Wohlgefallen,</l>
+					<l>An Weisheit nur sich selber gleich,</l>
+					<l>An Tapferkeit vor Allen.</l>
+					<l>War nicht geboren auf dem Thron,</l>
+					<l>Doch für den Thron geboren;</l>
+					<l>Zum Herrscher war des Hammers Sohn</l>
+					<l>Von Gottes Gnad’ erkoren.</l>
+					<l>Papst Zacharias sprach dies Wort:</l>
+					<l>Des Königs Würd’ und Namen</l>
+					<l>Gebührt der Völker starkem Hort!</l>
+					<l>Und alle Welt sprach: Amen!</l>
+					<l>Doch unser Held, der Kurze, schien</l>
+					<l>Zu klein manch kleinen Geistern,</l>
+					<l>Die maßen mit den Augen ihn,</l>
+					<l>Und hatten viel zu meistern.</l>
+					<l>Deß schwieg der Held, und ritterlich</l>
+					<l>Sinnt er den Hohn zu dämpfen,</l>
+					<l>Und lädt zum Spiele männiglich,</l>
+					<l>Wo wilde Thiere kämpfen.</l>
+					<l>Schon eilt das Volk herbei, mit Drang</l>
+					<l>Die stolzen Großen alle,</l>
+					<l>Sie nahen beim Trommetenklang,</l>
+					<l>Mit lautem Waffenschalle.</l>
+					<l>Still sitzt Pipin, gedankenschwer;</l>
+					<l>Wie nahend Ungewitter</l>
+					<l>Wirft er nur Blitze um sich her —</l>
+					<l>Da rauscht herab das Gitter.</l>
+					<l>Ein grimmer Leu, ein wilder Stier,</l>
+					<l>Die stürzen in die Schranken,</l>
+					<l>Begegnen sich mit Kampfbegier,</l>
+					<l>Und keiner wollte wanken.</l>
+					<l>Jetzt aber faßt des Leuen Zahn</l>
+					<l>Den Ur in dem Genicke,</l>
+					<l>Und reißt ihn nieder auf den Plan,</l>
+					<l>Blut, Feu’r und Wuth im Blicke.</l>
+					<l>Wer ist von euch— so fragt Pipin,</l>
+					<l>Und blitzet durch die Reihen —</l>
+					<l>Wer ist von euch so stark und kühn,</l>
+					<l>Entreißt die Beut’ dem Leuen?</l>
+					<l>Da machen große Augen zwar</l>
+					<l>Ringsum die großen Leute;</l>
+					<l>Doch jeder bebt vor der Gefahr,</l>
+					<l>Und keiner will zum Streite.</l>
+					<l>Und wie noch Alle schweigend stehn</l>
+					<l>Und an dem Kampf verzagen,</l>
+					<l>Sieht man Pipin zum Kampfplatz gehn,</l>
+					<l>Allein den Strauß zu wagen.</l>
+					<l>Er ruft den blut’gen Löwen an</l>
+					<l>Mit donnergleicher Stimme;</l>
+					<l>Der stürzt auf ihn mit Wuth heran,</l>
+					<l>Und brüllt vor wildem Grimme.</l>
+					<l>Und alles Volk sieht es mit Graus,</l>
+					<l>Pipin nur ohne Grausen;</l>
+					<l>Sein gutes Schwert zur Scheid’ heraus,</l>
+					<l>Läßt’s durch die Lüfte sausen,</l>
+					<l>Und schlägt den Löwen in den Bart,</l>
+					<l>Daß todt er niederstürzet;</l>
+					<l>Das war ein Schlag nach Heldenart,</l>
+					<l>Mit Heldenkraft gewürzet.</l>
+					<l>Nun rafft der wilde Ur sich auf,</l>
+					<l>Den neuen Feind er wittert,</l>
+					<l>Und rennt heran in vollem Lauf,</l>
+					<l>Daß Schrank und Boden zittert.</l>
+					<l>Doch unser Held steht mauerfest,</l>
+					<l>Und wankt nicht von der Stelle:</l>
+					<l>Das Schwert er wieder sausen läßt,</l>
+					<l>Und schwingts mit Blitzesschnelle.</l>
+					<l>Und trifft den Schnaubenden so gut,</l>
+					<l>Dicht an des Nackens Rande —</l>
+					<l>Da spritzt zum Himmel schwarzes Blut,</l>
+					<l>Das Haupt stürzt hin zum Sande.</l>
+					<l>Wie nun, ihr großen Recken ihr,</l>
+					<l>Was dünkt euch von dem Kleinen?</l>
+					<l>Mag nun der Held im Kampfrevier</l>
+					<l>Euch groß genug erscheinen? —</l>
+					<l>Es stehn beschämt die Spötter werth,</l>
+					<l>Gesenkt die stolzen Blicke;</l>
+					<l>Pipin steckt ein sein gutes Schwert,</l>
+					<l>Dann tritt er schnell zurücke.</l>
+					<l>Des Volkes Jubel aber füllt</l>
+					<l>Ringsum die weiten Schranken;</l>
+					<l>Empor ihn hebend auf dem Schild</l>
+					<l>Zeigt ihn der Frank dem Franken.</l>
+					<l>Als König grüßt ihn alle Welt,</l>
+					<l>Die Spötter müssen schweigen,</l>
+					<l>Und ihm, der Leu und Ur gefällt,</l>
+					<l>Demüthiglich sich beugen.</l>
+					<l>Und Barden singen allzumal</l>
+					<l>Vom Stier— und Löwensturze;</l>
+					<l>Pipin glänzt in der Fürstenzahl:</l>
+					<l>Groß war Pipin der Kurze.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.005</idno>
+					</title>
+					<title n="Geschichtslyrik">Roland Schildträger</title>
+					<author n="Geschichtslyrik">Uhland, Ludwig</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Zolund Schildtrüger.</head>
+					<l>Der König Karl saß einst zu Tisch</l>
+					<l>Zu Aachen mit den Fürsten.</l>
+					<l>Man stellte Wildpret auf und Fisch</l>
+					<l>Und ließ auch keinen dürsten;</l>
+					<l>Viel Goldgeschirr von klarem Schein,</l>
+					<l>Manch rothen, grünen Edelstein</l>
+					<l>Sah man im Saale leuchten.</l>
+					<l>Da sprach Herr Karl, der starke Held:</l>
+					<l>Was soll der eitle Schimmer?</l>
+					<l>Das beste Kleinod dieser Welt,</l>
+					<l>Das fehlet uns noch immer.</l>
+					<l>Dies Kleinod, hell wie Sonnenschein,</l>
+					<l>Ein Riese trägt’s im Schilde sein,</l>
+					<l>Tief im Ardennerwalde.</l>
+					<l>Graf Richard, Erzbischof Turpin,</l>
+					<l>Herr Haimon, Naims von Baiern,</l>
+					<l>Milon von Anglant, Graf Garin,</l>
+					<l>Die wollten da nicht feiern;</l>
+					<l>Sie haben Stahlgewand begehrt</l>
+					<l>Und hießen satteln ihre Pferd’,</l>
+					<l>Zu reiten nach dem Riesen.</l>
+					<l>Jung Roland, Sohn des Milon, sprach:</l>
+					<l>Lieb Vater! hört, ich bitte!</l>
+					<l>Vermeint ihr mich zu jung und schwach,</l>
+					<l>Daß ich mit Riesen strite,</l>
+					<l>Doch bin ich nicht zu winzig mehr,</l>
+					<l>Euch nachzutragen euern Speer</l>
+					<l>Samt eurem guten Schilde.</l>
+					<l>Die sechs Genossen ritten bald</l>
+					<l>Vereint nach den Ardennen;</l>
+					<l>Doch als sie kamen in den Wald,</l>
+					<l>Da thäten sie sich trennen.</l>
+					<l>Roland ritt hinterm Vater her;</l>
+					<l>Wie wohl ihm war, des Helden Speer,</l>
+					<l>Des Helden Schild zu tragen!</l>
+					<l>Bei Sonnenschein und Mondenlicht</l>
+					<l>Streiften die kühnen Degen;</l>
+					<l>Doch fanden sie den Riesen nicht</l>
+					<l>In Felsen noch Gehegen.</l>
+					<l>Zur Mittagsstund’ am vierten Tag</l>
+					<l>Der Herzog Milon schlafen lag</l>
+					<l>In einer Eiche Schatten.</l>
+					<l>Roland sah in der Ferne bald</l>
+					<l>Ein Blitzen und ein Leuchten,</l>
+					<l>Davon die Strahlen in dem Wald</l>
+					<l>Die Hirsch’ und Reh’ aufscheuchten;</l>
+					<l>Er sah, es kam von einem Schild,</l>
+					<l>Den trug ein Riese, groß und wild,</l>
+					<l>Vom Berge niedersteigend.</l>
+					<l>Roland gedacht’ im Herzen sein:</l>
+					<l>Was ist das für ein Schrecken!</l>
+					<l>Soll ich den lieben Vater mein</l>
+					<l>Im besten Schlaf erwecken?</l>
+					<l>Es wachet ja sein gutes Pferd,</l>
+					<l>Es wacht sein Speer, sein Schild und Schwert,</l>
+					<l>Es wacht Roland, der junge.</l>
+					<l>Roland das Schwert zur Seite band,</l>
+					<l>Herrn Milons starkes Waffen,</l>
+					<l>Die Lanze nahm er in die Hand</l>
+					<l>Und thät den Schild aufraffen.</l>
+					<l>Herrn Milons Roß bestieg er dann</l>
+					<l>Und ritt ganz sachte durch den Tann,</l>
+					<l>Den Vater nicht zu wecken.</l>
+					<l>Und als er kam zur Felsenwand,</l>
+					<l>Da sprach der Ries’ mit Lachen:</l>
+					<l>Was will doch dieser kleine Fant</l>
+					<l>Auf solchem Rosse machen?</l>
+					<l>Sein Schwert ist zwar so lang als er,</l>
+					<l>Vom Rosse zieht ihn schier der Speer,</l>
+					<l>Der Schild will ihn erdrücken.</l>
+					<l>Jung Roland rief: Wohlauf zum Streit!</l>
+					<l>Dich reuet noch dein Necken,</l>
+					<l>Hab’ ich die Tartsche lang und breit,</l>
+					<l>Kann sie mich besser decken;</l>
+					<l>Ein kleiner Mann, ein großes Pferd,</l>
+					<l>Ein kurzer Arm, ein langes Schwert,</l>
+					<l>Muß eins dem andern helfen.</l>
+					<l>Der Riese mit der Stange schlug</l>
+					<l>Auslangend, in die Weite,</l>
+					<l>Jung Roland schwenkte schnell genug</l>
+					<l>Sein Roß noch auf die Seite.</l>
+					<l>Die Lanz er auf den Riesen schwang,</l>
+					<l>Doch von dem Wunderschilde sprang</l>
+					<l>Auf Roland sie zurücke.</l>
+					<l>Jung Roland nahm in großer Hast</l>
+					<l>Das Schwert in beide Hände,</l>
+					<l>Der Riese nach dem seinen faßt,</l>
+					<l>Er war zu unbehende;</l>
+					<l>Mit flinkem Hiebe schlug Roland</l>
+					<l>Ihm unterm Schild die linke Hand,</l>
+					<l>Daß Hand und Schild entrollten.</l>
+					<l>Dem Riesen schwand der Muth dahin,</l>
+					<l>Wie ihm der Schild entrissen,</l>
+					<l>Das Kleinod, das ihm Kraft verliehn,</l>
+					<l>Mußt’ er mit Schmerzen missen.</l>
+					<l>Zwar lief er gleich dem Schilde nach,</l>
+					<l>Doch Roland in das Knie ihn stach,</l>
+					<l>Daß er zu Boden stürzte.</l>
+					<l>Roland ihn bei den Haaren griff</l>
+					<l>Hieb ihm das Haupt herunter,</l>
+					<l>Ein großer Strom von Blute lief</l>
+					<l>Ins tiefe Thal hinunter,</l>
+					<l>Und aus des Todten Schild hernach</l>
+					<l>Roland das lichte Kleinod brach,</l>
+					<l>Und freute sich am Glanze.</l>
+					<l>Dann barg er’s unterm Kleide gut</l>
+					<l>Und ging zu einem Quelle,</l>
+					<l>Da wusch er sich von Staub und Blut</l>
+					<l>Gewand und Waffen helle.</l>
+					<l>Zurücke ritt der jung’ Roland</l>
+					<l>Dahin, wo er den Vater fand,</l>
+					<l>Noch schlafend bei der Eiche.</l>
+					<l>Er legt’ sich an des Vaters Seit’,</l>
+					<l>Vom Schlafe selbst bezwungen,</l>
+					<l>Bis in der kühlen Abendzeit</l>
+					<l>Herr Milon aufgesprungen:</l>
+					<l>Wach’ auf, wach’ auf, mein Sohn Roland!</l>
+					<l>Nimm Schild und Lanze schnell zur Hand,</l>
+					<l>Daß wir den Riesen suchen!</l>
+					<l>Sie stiegen auf und eilten sehr,</l>
+					<l>Zu schweifen in der Wilde,</l>
+					<l>Roland ritt hinterm Vater her</l>
+					<l>Mit dessen Speer und Schilde.</l>
+					<l>Sie kamen bald zu jener Stätt’,</l>
+					<l>Wo Roland jüngst gestritten hätt,</l>
+					<l>Der Riese lag im Blute.</l>
+					<l>Roland kaum seinen Augen glaubt,</l>
+					<l>Als nicht mehr war zu schauen</l>
+					<l>Die linke Hand, dazu das Haupt,</l>
+					<l>So er ihm abgehauen,</l>
+					<l>Nicht mehr des Riesen Schwert und Speer,</l>
+					<l>Auch nicht sein Schild und Harnisch mehr,</l>
+					<l>Nur Rumpf und blut’ge Glieder.</l>
+					<l>Milon besah den großen Rumpf:</l>
+					<l>Was ist das für 'ne Leiche?</l>
+					<l>Man sieht noch am zerhaunen Stumpf,</l>
+					<l>Wie mächtig war die Eiche.</l>
+					<l>Das ist der Riese, frag’ ich mehr?</l>
+					<l>Verschlafen hab’ ich Sieg und Ehr,</l>
+					<l>Drum muß ich ewig trauren.</l>
+					<l>Zu Aachen vor dem Schlosse stund</l>
+					<l>Der König Karl gar bange:</l>
+					<l>Sind meine Helden wohl gesund?</l>
+					<l>Sie weilen allzu lange.</l>
+					<l>Doch seh’ ich recht, auf Königswort!</l>
+					<l>So reitet Herzog Haimon dort,</l>
+					<l>Des Riesen Haupt am Speere.</l>
+					<l>Herr Haimon ritt in trübem Muth,</l>
+					<l>Und mit gesenktem Spieße</l>
+					<l>Legt’ er das Haupt, besprengt mit Blut,</l>
+					<l>Dem König vor die Füße;</l>
+					<l>Ich fand den Kopf im wilden Hag,</l>
+					<l>Und fünfzig Schritte weiter lag</l>
+					<l>Des Riesen Rumpf am Boden.</l>
+					<l>Bald auch der Erzbischof Turpin</l>
+					<l>Den Riesenhandschuh brachte,</l>
+					<l>Die ungefüge Hand noch drin,</l>
+					<l>Er zog sie aus und lachte:</l>
+					<l>Das ist ein schön Religuienstück,</l>
+					<l>Ich bring’ es aus dem Wald zurück,</l>
+					<l>Fand es schon zugehauen.</l>
+					<l>Der Herzog Naims von Baierland</l>
+					<l>Kam mit des Riesen Stange:</l>
+					<l>Schaut an, was ich im Walde fand!</l>
+					<l>Ein Waffen, stark und lange.</l>
+					<l>Wohl schwitz’ ich von dem schweren Druck,</l>
+					<l>Hei! bairisch Bier, ein guter Schluck,</l>
+					<l>Sollt’ mir gar köstlich munden!</l>
+					<l>Graf Richard kam zu Fuß daher,</l>
+					<l>Ging neben seinem Pferde,</l>
+					<l>Das trug des Riesen schwere Wehr,</l>
+					<l>Den Harnisch samt dem Schwerte:</l>
+					<l>Wer suchen will im wilden Tann,</l>
+					<l>Manch Waffenstück noch finden kann,</l>
+					<l>Ist mir zu viel gewesen</l>
+					<l>Der Graf Garin thät ferne schon</l>
+					<l>Den Schild des Riesen schwingen:</l>
+					<l>Der hat den Schild, deß ist die Kron,</l>
+					<l>Der wird das Kleinod bringen!</l>
+					<l>Den Schild hab’ ich, ihr lieben Herrn!</l>
+					<l>Das Kleinod hätt’ ich gar zu gern,</l>
+					<l>Doch das ist ausgebrochen.</l>
+					<l>Zuletzt thät man Herrn Milon sehn,</l>
+					<l>Der nach dem Schlosse lenkte,</l>
+					<l>Er ließ das Rößlein langsam gehn,</l>
+					<l>Das Haupt er traurig senkte.</l>
+					<l>Roland ritt hinterm Vater her</l>
+					<l>Und trug ihm seinen starken Speer</l>
+					<l>Zusammt dem festen Schilde.</l>
+					<l>Doch wie sie kamen vor das Schloß</l>
+					<l>Und zu den Herrn geritten,</l>
+					<l>Macht’ er von Vaters Schilde los</l>
+					<l>Den Zierrath in der Mitten;</l>
+					<l>Das Riesenkleinod setzt’ er ein,</l>
+					<l>Das gab so wunderklaren Schein,</l>
+					<l>Als wie die liebe Sonne.</l>
+					<l>Und als nun diese helle Glut</l>
+					<l>Im Schilde Milons brannte,</l>
+					<l>Da rief der König frohgemuth:</l>
+					<l>Heil Milon von Anglante!</l>
+					<l>Der hat den Riesen übermannt,</l>
+					<l>Ihm abgeschlagen Haupt und Hand,</l>
+					<l>Das Kleinod ihm entrissen.</l>
+					<l>Herr Milon hatte sich gewandt,</l>
+					<l>Sah staunend all’ die Helle:</l>
+					<l>Roland! sag an, du junger Fant!</l>
+					<l>Wer gab dir das, Geselle?</l>
+					<l>Um Gott, Herr Vater, zürnt mir nicht,</l>
+					<l>Daß ich erschlug den groben Wicht,</l>
+					<l>Derweil Ihr eben schliefet!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.006</idno>
+					</title>
+					<title n="Geschichtslyrik">Wittekind</title>
+					<author n="Geschichtslyrik">Platen, August Graf von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Die Suge bon Mittelind.</head>
+					<l>Da kaum die Hügel matt erhellte</l>
+					<l>Der morgenrothe, lichte Schein,</l>
+					<l>Wer schleicht sich in die Zelte</l>
+					<l>Des Frankenlagers ein?</l>
+					<l>Mit Schritten leise, leise,</l>
+					<l>Wie Späherschritte sind,</l>
+					<l>Verfolgt er die geheime Reise;</l>
+					<l>Das ist der Sachse Wittekind.</l>
+					<l>Schon focht er wider muth’ge Franken</l>
+					<l>Durch lange Jahre blut’gen Streit,</l>
+					<l>Und grollte sonder Wanken</l>
+					<l>Dem Herrn der Christenheit;</l>
+					<l>Nun schlich er kühn und schnelle</l>
+					<l>Zum Feinde sich bei Nacht,</l>
+					<l>Vertauschend seine Heldenfelle</l>
+					<l>Mit einer feigen Bettlertracht.</l>
+					<l>Da fühlt er plötzlich sich umrungen</l>
+					<l>Von Melodien sanft und weich,</l>
+					<l>Gesungen wird, geklungen</l>
+					<l>Wird um ihn her zugleich.</l>
+					<l>Verwundert eilt er weiter,</l>
+					<l>Durchzieht das rüst’ge Heer,</l>
+					<l>Da sieht er Beter statt der Streiter,</l>
+					<l>Das Kreuz als ihre ganze Wehr.</l>
+					<l>Weihnachten war herangekommen,</l>
+					<l>Der heil’ge Morgen war erglüht,</l>
+					<l>Und innig schwoll des frommen,</l>
+					<l>Des großen Karls Gemüth;</l>
+					<l>Zum hohen Tempelbaue</l>
+					<l>Ließ wölben er sein Zelt,</l>
+					<l>Daß er im Land der Heiden schaue</l>
+					<l>Die Glorie der Christenwelt.</l>
+					<l>Hoch überm Altar prangt und raget</l>
+					<l>Ein blauer, golddurchwirkter Thron,</l>
+					<l>Drauf sitzt die reine Maged</l>
+					<l>Und ihr im Schooß der Sohn.</l>
+					<l>Hell schimmert rings das schöne,</l>
+					<l>Das heilige Geräth,</l>
+					<l>Und alle Farben, alle Töne</l>
+					<l>Begrüßen sich mit Majestät.</l>
+					<l>Schon kniete brünstig, stillandächtig</l>
+					<l>Der Kaiser vor dem Hochaltar,</l>
+					<l>Mit Grafenkronen prächtig</l>
+					<l>Um ihn die Heldenschaar;</l>
+					<l>Schon fällt vom Spiel der Lichter</l>
+					<l>Ein rosenfarbner Schein</l>
+					<l>Auf ihre klaren Angesichter;</l>
+					<l>Da tritt der Heide keck hinein.</l>
+					<l>Er staunt, als er die stolzen Päre</l>
+					<l>Mit Karl auf ihren Knien erkennt,</l>
+					<l>Damit sie himmlisch nähre</l>
+					<l>Das ew’ge Sakrament;</l>
+					<l>Doch staunt er deß nicht minder,</l>
+					<l>Was man dem Gotte bot:</l>
+					<l>Nicht Pferde fielen hier, noch Rinder,</l>
+					<l>Sie opferten nur Wein und Brot.</l>
+					<l>Der Priester bot zum Liebesmahle</l>
+					<l>Die Hostie dem Kaiser dar,</l>
+					<l>Die auf smaragdner Schale</l>
+					<l>Sich wandelt wunderbar;</l>
+					<l>Was alles Volk erqickte</l>
+					<l>Unter des Brotes Bild,</l>
+					<l>Ein lebend Kind darin erblickte</l>
+					<l>Sein Aug, ein Knäblein süß und mild.</l>
+					<l>Er sieht das schöne Kind erlachen,</l>
+					<l>Ihm freundlich winken: Komm zu mir;</l>
+					<l>Ich will dich glücklich machen,</l>
+					<l>Und selig dort und hier.</l>
+					<l>Und Jubel füllt die Seelen,</l>
+					<l>Empfahend Brot und Wein,</l>
+					<l>Es dringt ein Lied aus tausend Kehlen</l>
+					<l>Von göttlichem Zugegensein.</l>
+					<l>Der Sachse steht betäubt, er faltet</l>
+					<l>Die Hände fromm, sein Aug’ ist naß</l>
+					<l>Das hohe Wunder spaltet</l>
+					<l>Den heidnisch argen Haß</l>
+					<l>Hin eilt er, wo der Haufe</l>
+					<l>Mit frohem Blick ihn mißt:</l>
+					<l>Gib, Karl, dem Wittekind die Taufe,</l>
+					<l>Daß er umarme dich als Christ.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.007</idno>
+					</title>
+					<title n="Geschichtslyrik">Ludwig des Frommen Tod</title>
+					<author n="Geschichtslyrik">Stolterfoth, Adelheid von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Fudwig des Frommen Tod.</head>
+					<l>Es kommt ein Schiff geschwommen</l>
+					<l>Herab den stolzen Rhein,</l>
+					<l>Die weißen Segel wallen</l>
+					<l>Im goldnen Mittagsschein;</l>
+					<l>Umgeben von Getreuen</l>
+					<l>Ruht drin gebettet weich</l>
+					<l>Der fromme Kaiser Ludwig</l>
+					<l>So krank und todesbleich.</l>
+					<l>Legt an, legt an, ihr Schiffer,</l>
+					<l>Bei dieser stillen Au,</l>
+					<l>Da wehn durch schatt’ge Bäume</l>
+					<l>Die Lüfte mild und lau;</l>
+					<l>Da rasseln keine Schwerter,</l>
+					<l>Da tönt kein Schlachtgesang</l>
+					<l>Mir vom Verrath der Söhne</l>
+					<l>Den fürchterlichen Klang.</l>
+					<l>Und auf dem grünen Rasen,</l>
+					<l>Ihr Treuen, spannt mein Zelt,</l>
+					<l>Auf daß in Frieden ruhe</l>
+					<l>Der Herrscher einer Welt.</l>
+					<l>Schon rauscht des Rheines Welle</l>
+					<l>Ein sanftes Schlummerlied,</l>
+					<l>Und leichter wird sich schließen</l>
+					<l>Mein Auge trüb und müd.</l>
+					<l>Es sprach’s der kranke Kaiser,</l>
+					<l>Da wird erfüllt sein Wort,</l>
+					<l>Man tragt ihn auf ein Lager</l>
+					<l>Am kleinen Inselport.</l>
+					<l>Wie blaß sind seine Wangen,</l>
+					<l>Wie todesmatt sein Blick,</l>
+					<l>Er richtet ihn voll Trauer</l>
+					<l>Nach Jngelheim zurück.</l>
+					<l>Und auf den Zinnen leuchtet</l>
+					<l>Der letzte Abendstrahl,</l>
+					<l>Die hundert Säulen schimmern</l>
+					<l>Am stolzen Kaisersaal;</l>
+					<l>Da fühlt der fromme Ludwig,</l>
+					<l>Daß seine Stunde schlägt,</l>
+					<l>Er betet lang und leise</l>
+					<l>Und sagt, von Schmerz bewegt:</l>
+					<l>Seht, wie der Glanz der Säulen</l>
+					<l>Verschwunden ist in Nacht,</l>
+					<l>Bald wird auch so vergehen</l>
+					<l>Der Karolinger Macht! —</l>
+					<l>Sagt meinen fernen Söhnen,</l>
+					<l>In Wehr und Waffen wild,</l>
+					<l>Daß sie das Herz gebrochen,</l>
+					<l>Zu weich und vatermild.</l>
+					<l>Doch will es gern vergeben,</l>
+					<l>Vergessen muß es bald</l>
+					<l>Der Erde Lust und Schmerzen,</l>
+					<l>Haß, Liebe und Gewalt!</l>
+					<l>Ihr Ritter, nehmt die Krone,</l>
+					<l>Umglänzt von flücht’gem Schein,</l>
+					<l>Lothar soll sie empfangen,</l>
+					<l>Er wird nun Kaiser sein.</l>
+					<l>Und bringt ihm auch den Scepter,</l>
+					<l>Zu schwer oft meiner Hand,</l>
+					<l>Bringt ihm den Purpurmantel,</l>
+					<l>Mir gnügt ein Sterbgewand.</l>
+					<l>Denn nun zum drittenmale</l>
+					<l>Vom stolzen Kaiserthron,</l>
+					<l>Doch ach, ins Grab hernieder</l>
+					<l>Steigt, großer Karl, dein Sohn.</l>
+					<l>Aus — aus — sein Auge sinket,</l>
+					<l>Umhüllt von Todesnacht,</l>
+					<l>Er hat den Kampf bestanden,</l>
+					<l>Er hat den Sieg vollbracht.</l>
+					<l>Und um die Königsleiche</l>
+					<l>Knie’n traurig und voll Schmerz</l>
+					<l>Die Ritter zum Gebete</l>
+					<l>Für das gebrochne Herz</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.008</idno>
+					</title>
+					<title n="Geschichtslyrik">Heinrich der Vogler</title>
+					<author n="Geschichtslyrik">Vogl, Johann Nepomuk</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">einrich der Finkler.</head>
+					<l>Herr Heinrich sitzt am Vogelherd</l>
+					<l>Recht froh und wohlgemuth;</l>
+					<l>Aus tausend Perlen blinkt und blitzt</l>
+					<l>Der Morgenröthe Glut.</l>
+					<l>In Wies’ und Feld und Wald und Au —</l>
+					<l>Horch, welch ein süßer Schall!</l>
+					<l>Der Lerche Sang, der Wachtel Schlag,</l>
+					<l>Die süße Nachtigall!</l>
+					<l>Herr Heinrich schaut so fröhlich drein:</l>
+					<l>Wie schön ist heut die Welt!</l>
+					<l>Was gilts? heut gibt’s 'nen guten Fang!</l>
+					<l>Er lugt zum Himmelszelt.</l>
+					<l>Er lauscht und streicht sich von der Stirn</l>
+					<l>Das blondgelockte Haar:</l>
+					<l>Ei doch! was sprengt denn dort herauf</l>
+					<l>Für eine Reiterschaar?</l>
+					<l>Der Staub wallt auf, der Hufschlag dröhnt,</l>
+					<l>Es naht der Waffen Klang.</l>
+					<l>Daß Gott! die Herrn verderben mir</l>
+					<l>Den ganzen Vogelfang!</l>
+					<l>Ei nun! Was gibks?— Es hält der Troß</l>
+					<l>Vorm Herzog plötzlich an;</l>
+					<l>Herr Heinrich tritt hervor und spricht:</l>
+					<l>Wen sucht ihr Herrn? sagt an!</l>
+					<l>Da schwenken sie die Fähnlein bunt</l>
+					<l>Und jauchzen: Unsern Herrn! —</l>
+					<l>Hoch lebe König Heinrich!— Hoch</l>
+					<l>Des Sachsenlandes Stern! —</l>
+					<l>Dies rufend knie’n sie vor ihn hin</l>
+					<l>Und huldigen ihm still</l>
+					<l>Und rufen, als er staunend fragt:</l>
+					<l>s ist deutschen Reiches Will’!</l>
+					<l>Da blickt Herr Heinrich tiefbewegt</l>
+					<l>Hinauf zum Himmelszelt:</l>
+					<l>Du gabst mir einen guten Fang,</l>
+					<l>Herr Gott, wie Dir’s gefällt.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.009</idno>
+					</title>
+					<title n="Geschichtslyrik">Kaiser Otto der Erste</title>
+					<author n="Geschichtslyrik">Mühler, Heinrich von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Kaiser Otto I.</head>
+					<l>Zu Quedlinburg im Dome ertönet Glockenklang,</l>
+					<l>Der Orgel Stimmen brausen zum ernsten Chorgesang:</l>
+					<l>Es sitzt der Kaiser drinnen mit seiner Ritter Macht,</l>
+					<l>Voll Andacht zu begehen die heil’ge Weihenacht.</l>
+					<l>Hoch ragt er in dem Kreise, von männlicher Gestalt, 5</l>
+					<l>Das Auge scharf wie Blitze, von goldnem Haar umwallt;</l>
+					<l>Man hat ihn nicht zum Scherze den Löwen nur genannt,</l>
+					<l>Schon Mancher hat empfunden die löwenstarke Hand.</l>
+					<l>Wohl ist auch jetzt vom Siege er wieder heimgekehrt,</l>
+					<l>Doch nicht des Reiches Feinden hat mächtig er gewehrt; 10</l>
+					<l>Es ist der eigne Bruder, den seine Waffe schlug,</l>
+					<l>Der dreimal der Empörung blutrothes Banner trug.</l>
+					<l>Jetzt schweift er durch die Lande geächtet, flüchtig hin,</l>
+					<l>Das will dem edlen Kaiser gar schmerzlich in den Sinn;</l>
+					<l>Er hat die schlimme Fehde oft bitter schon beweint:</l>
+					<l>„O Heinrich, du mein Bruder, was bist du mir so feind!”</l>
+					<l>Zu Quedlinburg vom Dome ertönt die Mitternacht,</l>
+					<l>Vom Priester wird das Opfer der Messe dargebracht,</l>
+					<l>Es beugen sich die Kniee, es beugt sich jedes Herz,</l>
+					<l>Gebet in heil’ger Stunde steigt brünstig himmelwärts.</l>
+					<l>Da öffnen sich die Pforten, es tritt ein Mann herein,</l>
+					<l>Es hüllt die starken Glieder ein Büßerhemde ein —</l>
+					<l>Er schreitet auf den Kaiser, er wirft sich vor ihm hin,</l>
+					<l>Die Knie’ er ihm umfasset mit tiefgebeugtem Sinn.</l>
+					<l>„O Bruder, meine Fehle, sie lasten schwer auf mir;</l>
+					<l>Hier liege ich zu Füßen, Verzeihung flehend, dir;</l>
+					<l>Was ich mit Blut gesündigt, die Gnade macht es rein,</l>
+					<l>Vergib, vergib, o Kaiser, vergib, du Bruder mein!”</l>
+					<l>Doch strenge blickt der Kaiser den sünd’gen Bruder an:</l>
+					<l>„Zweimal hab’ ich vergeben: nicht fürder mehr fortan!</l>
+					<l>Die Acht ist ausgesprochen, das Leben dir geraubt,</l>
+					<l>Nach dreier Tage Wechsel, da fällt dein schuldig Haupt!”</l>
+					<l>Bleich werden rings die Fürsten, der Herzog Heinrich bleich,</l>
+					<l>Und Stille herrscht im Kreise, gleich wie im Todtenreich,</l>
+					<l>Man hätte mögen hören jetzt wohl ein fallend Laub,</l>
+					<l>Denn Keiner wagt zu wehren dem Löwen seinen Raub.</l>
+					<l>Da hat sich ernst zum Kaiser der fromme Abt gewandt,</l>
+					<l>Das ew’ge Buch der Bücher, das hält er in der Hand;</l>
+					<l>Er liest mit lautem Munde der heil’gen Worte Klang,</l>
+					<l>Daß es in Aller Herzen wie Gottesstimme drang.</l>
+					<l>„Und Petrus sprach zum Herren: Nicht so? Genügt ich hab’,</l>
+					<l>Wenn ich dem sünd’gen Bruder schon siebenmal vergab?</l>
+					<l>Doch Jesus ihm antwortet: Nicht siebenmal vergib,</l>
+					<l>Nein, siebenzig mal sieben, das ist dem Vater lieb.”</l>
+					<l>Da schmilzt des Kaisers Strenge in Thränen unbewußt,</l>
+					<l>Er hebt ihn auf, den Bruder, er drückt ihn an die Brust;</l>
+					<l>Ein lauter Ruf der Freude ist jubelnd rings erwacht,</l>
+					<l>Nie schöner ward begangen die heil’ge Weihenacht.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.010</idno>
+					</title>
+					<title n="Geschichtslyrik">Klagelied Ottos III.</title>
+					<author n="Geschichtslyrik">Platen, August Graf von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">lnglied niser Giton JJI.</head>
+					<l>O Erde, nimm den Müden,</l>
+					<l>Den Lebensmüden auf,</l>
+					<l>Der hier im fernen Süden</l>
+					<l>Beschließt den Pilgerlauf!</l>
+					<l>Schon steh’ ich an der Grenze,</l>
+					<l>Die Leib und Seele theilt,</l>
+					<l>Und meine zwanzig Lenze</l>
+					<l>Sind rasch dahingeeilt.</l>
+					<l>Voll unerfüllter Träume,</l>
+					<l>Verwaist, in Gram versenkt,</l>
+					<l>Entfallen mir die Zäume,</l>
+					<l>Die dieses Reich gelenkt.</l>
+					<l>Ein Andrer mag es zügeln</l>
+					<l>Mit Händen minder schlaff</l>
+					<l>Von diesen sieben Hügeln</l>
+					<l>Bis an des Nordens Haff.</l>
+					<l>Doch selbst im Seelenreiche</l>
+					<l>Harrt meiner noch die Schmach;</l>
+					<l>Es folgt der blassen Leiche</l>
+					<l>Begangner Frevel nach:</l>
+					<l>Vergebens mit Gebeten</l>
+					<l>Beschwör’ ich diesen Bann,</l>
+					<l>Und mir entgegen treten</l>
+					<l>Crescentius und Johann.</l>
+					<l>Doch nein! die Stolzen beugte</l>
+					<l>Mein reuemüthig Flehn;</l>
+					<l>Ihn, welcher mich erzeugte,</l>
+					<l>Ihn werd’ ich wiedersehn!</l>
+					<l>Nach welchem ich als Knabe</l>
+					<l>So oft vergebens frug:</l>
+					<l>An seinem frühen Grabe</l>
+					<l>Hab’ ich geweint genug.</l>
+					<l>Des deutschen Volks Berather</l>
+					<l>Umwandeln Gottes Thron;</l>
+					<l>Mir winkt der Aeltervater</l>
+					<l>Mit seinem großen Sohn;</l>
+					<l>Und während voll von Milde</l>
+					<l>Die frommen Hände legt</l>
+					<l>Mir auf das Haupt Mathilde,</l>
+					<l>Steht Heinrich tief bewegt.</l>
+					<l>Nun fühl’ ich erst, wie eitel</l>
+					<l>Des Glücks Geschenke sind,</l>
+					<l>Wiewohl ich auf dem Scheitel</l>
+					<l>Schon Kronen trug als Kind!</l>
+					<l>Was je mir schien gewichtig,</l>
+					<l>Zerstiebt wie ein Atom:</l>
+					<l>O Welt, du bist so nichtig,</l>
+					<l>Du bist so klein, o Rom!</l>
+					<l>O Rom, wo meine Blüthen</l>
+					<l>Verwelkt, wie dürres Laub,</l>
+					<l>Dir ziemt es nicht, zu hüten</l>
+					<l>Den kaiserlichen Staub!</l>
+					<l>Die mir die Treue brachen,</l>
+					<l>Zerbrächen mein Gebein:</l>
+					<l>Beim großen Karl in Aachen</l>
+					<l>Will ich bestattet sein.</l>
+					<l>Die echten Palmen wehen</l>
+					<l>Nur dort um sein Panier:</l>
+					<l>Ihn hab’ ich liegen sehen,</l>
+					<l>In seiner Kaiserzier.</l>
+					<l>Was durfte mich verführen,</l>
+					<l>Zu öffnen seinen Sarg?</l>
+					<l>Den Lorbeer anzurühren,</l>
+					<l>Der seine Schläfe barg?</l>
+					<l>O Freunde, laßt das Klagen,</l>
+					<l>Mir aber gebt Entsatz,</l>
+					<l>Und macht dem Leichenwagen</l>
+					<l>Mit euern Waffen Platz!</l>
+					<l>Bedeckt das Grab mit Rosen,</l>
+					<l>Das ich so früh gewann,</l>
+					<l>Und legt den thatenlosen</l>
+					<l>Zum thatenreichsten Mann!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.011</idno>
+					</title>
+					<title n="Geschichtslyrik">Kaiser Heinrich II.</title>
+					<author n="Geschichtslyrik">Schwab, Gustav</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">niner eirih II.</head>
+					<l>Herzog Heinrich war’s von Bayern,</l>
+					<l>Der sich in der Mitternacht,</l>
+					<l>Wo die frömmsten Brüder feiern,</l>
+					<l>Hin zur Kirche aufgemacht.</l>
+					<l>Ernste Bilder nach ihm fassen,</l>
+					<l>Treiben ihn zum Beten an,</l>
+					<l>Durch die Regensburger Gassen</l>
+					<l>Geht er nach Sanct Heimeran.</l>
+					<l>Junges Heldenantlitz betend</l>
+					<l>Möcht’ ein schöner Anblick sein;</l>
+					<l>Dieser, zum Altare tretend,</l>
+					<l>Kniet umnachtet und allein.</l>
+					<l>Vor den Augen gar die Hände,</l>
+					<l>Drückend jedes Bild zurück,</l>
+					<l>Fleht er um ein sel’ges Ende,</l>
+					<l>Nicht um irdisch Heil und Glück.</l>
+					<l>Als er aufstand, schien’s vom Rücken</l>
+					<l>Ueber ihn, als wie ein Licht;</l>
+					<l>Staunend thät er um sich blicken,</l>
+					<l>Sieht ein heil’ges Angesicht.</l>
+					<l>Hochaltar und Kreuz verklärend</l>
+					<l>Dort ein lichter Bischof stand,</l>
+					<l>Der mit hoher Hand, wie schwörend,</l>
+					<l>Zeigte nach der Kirchenwand.</l>
+					<l>Mit den Fingern, wie mit Kerzen,</l>
+					<l>Leuchtet er auf eine Schrift,</l>
+					<l>Wo der Fürst mit bangem Herzen</l>
+					<l>Auf ein’ röm’sche Sechse trifft.</l>
+					<l>Will mich Gott so bald erhören?</l>
+					<l>Herr, ich glaub’s auf eure Hand,</l>
+					<l>Hebt sie nicht so ernst zum Schwören!</l>
+					<l>Sprach der Held, und Alles schwand.</l>
+					<l>Wie sechs Stunden sind vergangen,</l>
+					<l>Harrt er fromm auf seinen Tod,</l>
+					<l>Doch es schien ihm auf die Wangen</l>
+					<l>Lebenshell das Morgenroth.</l>
+					<l>Wie der sechste Tag gekommen,</l>
+					<l>Er bereit und fertig ist,</l>
+					<l>Doch es gibt der Herr dem Frommen</l>
+					<l>Neue heit’re Lebensfrist.</l>
+					<l>Darum hält er an mit Beten,</l>
+					<l>Bis der sechste Mond erscheint,</l>
+					<l>Würd’ger stets vor Gott zu treten —</l>
+					<l>Doch es war nicht so gemeint.</l>
+					<l>Aber ernste Todsgedanken</l>
+					<l>Wandeln mit ihm immerdar,</l>
+					<l>Und so lebt er sonder Wanken</l>
+					<l>Heilig bis ins sechste Jahr.</l>
+					<l>Und in hoher Kirche stand er</l>
+					<l>Leuchtend um das sechste Jahr,</l>
+					<l>Und auf seinem Haupte fand er</l>
+					<l>Röm’sche Königskrone gar.</l>
+					<l>König Heinrich wars, der Zweite,</l>
+					<l>Herr von allem deutschen Land,</l>
+					<l>Der von dort an ward bis heute</l>
+					<l>Stets der Heilige genannt</l>
+					<l>Zwei und zwanzig Jahre heilig</l>
+					<l>Herrscht’ er ohne Fluch und Spott;</l>
+					<l>An die röm’sche Sechse treulich</l>
+					<l>Dacht’ er und an Tod und Gott.</l>
+					<l>Weil er fertig war zum Sterben,</l>
+					<l>Hielt ihn Gott des Lebens werth,</l>
+					<l>Weil den Himmel er konnt’ erben,</l>
+					<l>Ward ihm auch das Reich bescheert.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.012</idno>
+					</title>
+					<title n="Geschichtslyrik">Die Weiber von Weinsberg</title>
+					<author n="Geschichtslyrik">Chamisso, Adelbert von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Die Meiber bon Meinaberg.</head>
+					<l>Der erste Hohenstaufe, der König Konrad, lag</l>
+					<l>Mit Heeresmacht vor Weinsberg seit manchem langen Tag;</l>
+					<l>Der Welfe war geschlagen, noch wehrte sich das Nest,</l>
+					<l>Die unverzagten Städter, die hielten es noch fest.</l>
+					<l>Der Hunger kam, der Hunger! Das ist ein scharfer Dorn.</l>
+					<l>Nun suchten sie die Gnade, nun fanden sie den Zorn:</l>
+					<l>Ihr habt mir hier erschlagen gar manchen Degen werth,</l>
+					<l>Und öffnet ihr die Thore, so trifft euch doch das Schwert.</l>
+					<l>Da sind die Weiber kommen: Und muß es also sein,</l>
+					<l>Gewährt uns freien Abzug, wir sind vom Blute rein! 10</l>
+					<l>Da hat sich vor den Armen des Helden Zorn gekühlt,</l>
+					<l>Da hat ein sanft Erbarmen im Herzen er gefühlt.</l>
+					<l>Die Weiber mögen abziehn, und jede habe frei,</l>
+					<l>Was sie vermag zu tragen und ihr das Liebste sei;</l>
+					<l>Laßt ziehn mit ihrer Bürde sie ungehindert fort,</l>
+					<l>Das ist des Königs Meinung, das ist des Königs Wort.</l>
+					<l>Und als der frühe Morgen im Osten kaum gegraut,</l>
+					<l>Da hat ein seltnes Schauspiel vom Lager man geschaut;</l>
+					<l>Es öffnet leise, leise sich das bedrängte Thor,</l>
+					<l>Es schwankt ein Zug von Weibern mit schwerem Tritt hervor.</l>
+					<l>Tief beugt die Last sie nieder, die auf dem Nacken ruht,</l>
+					<l>Sie tragen ihre Ehherrn, das ist ihr liebstes Gut.</l>
+					<l>Halt an die argen Weiber! ruft drohend mancher Wicht;</l>
+					<l>Der Kanzler spricht bedeutsam: Das war die Meinung nicht.</l>
+					<l>Da hat, wie er’s vernommen, der fromme Herr gelacht:</l>
+					<l>Und war es nicht die Meinung, sie haben’s gut gemacht:</l>
+					<l>Gesprochen ist gesprochen, das Königswort besteht,</l>
+					<l>Und zwar von keinem Kanzler zerdeutelt und zerdreht.</l>
+					<l>So war das Gold der Krone wohl rein und unentweiht.</l>
+					<l>Die Sage schallt herüber aus halb vergeßner Zeit.</l>
+					<l>Im Jahr elfhundertvierzig, wie ich’s verzeichnet fand,</l>
+					<l>Galt Königswort noch heilig im deutschen Vaterland.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.013</idno>
+					</title>
+					<title n="Geschichtslyrik">Schwäbische Kunde</title>
+					<author n="Geschichtslyrik">Uhland, Ludwig</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Sehwübische unde.</head>
+					<l>Als Kaiser Rothbart lobesam</l>
+					<l>Zum heil’gen Land gezogen kam,</l>
+					<l>Da mußt’ er mit dem frommen Heer</l>
+					<l>Durch ein Gebirge, wüst und leer.</l>
+					<l>Daselbst erhub sich große Noth,</l>
+					<l>Viel Steine gab’s und wenig Brot,</l>
+					<l>Und mancher deutsche Reitersmann</l>
+					<l>Hat dort den Trunk sich abgethan.</l>
+					<l>Den Pferden war’s so schwach im Magen,</l>
+					<l>Fast mußt’ der Reiter die Mähre tragen.</l>
+					<l>Nun war ein Herr aus Schwabenland,</l>
+					<l>Von hohem Wuchs und starker Hand,</l>
+					<l>Deß Rößlein war so krank und schwach,</l>
+					<l>Er zog es nur am Zaume nach,</l>
+					<l>Er hätt’ es nimmer aufgegeben</l>
+					<l>Und kostet’s ihn das eigne Leben.</l>
+					<l>So blieb er bald ein gutes Stück</l>
+					<l>Hinter dem Heereszug zurück.</l>
+					<l>Da sprengten plötzlich in die Quer</l>
+					<l>Funfzig türkische Reiter daher,</l>
+					<l>Die huben an, auf ihn zu schießen,</l>
+					<l>Nach ihm zu werfen mit den Spießen.</l>
+					<l>Der wackre Schwabe forcht sich nit,</l>
+					<l>Ging seines Weges Schritt vor Schritt,</l>
+					<l>Ließ sich den Schild mit Pfeilen spicken</l>
+					<l>Und thät nur spöttlich um sich blicken,</l>
+					<l>Bis Einer, dem die Zeit zu lang,</l>
+					<l>Auf ihn den krummen Säbel schwang.</l>
+					<l>Da wallt dem Deutschen auch sein Blut,</l>
+					<l>Er trifft des Türken Pferd so gut,</l>
+					<l>Er haut ihm ab mit Einem Streich</l>
+					<l>Die beiden Vorderfüß zugleich.</l>
+					<l>Als er das Thier zu Fall gebracht,</l>
+					<l>Da faßt er erst sein Schwert mit Macht;</l>
+					<l>Er schwingt es auf des Reiters Kopf,</l>
+					<l>Haut durch bis auf den Sattelknopf,</l>
+					<l>Haut auch den Sattel noch in Stücken,</l>
+					<l>Und tief noch in des Pferdes Rücken;</l>
+					<l>Zur Rechten sieht man, wie zur Linken,</l>
+					<l>Einen halben Türken heruntersinken.</l>
+					<l>Da packt die Andern kalter Graus,</l>
+					<l>Sie fliehen in alle Welt hinaus,</l>
+					<l>Und Jedem ist’s, als würd ihm mitten</l>
+					<l>Durch Kopf und Leib hindurchgeschnitten.</l>
+					<l>Drauf kam des Wegs 'ne Christenschaar,</l>
+					<l>Die auch zurückgeblieben war,</l>
+					<l>Die sahen nun mit gutem Bedacht,</l>
+					<l>Was Arbeit unser Held gemacht.</l>
+					<l>Von denen hat’s der Kaiser vernommen,</l>
+					<l>Der ließ den Schwaben vor sich kommen,</l>
+					<l>Er sprach: Sag’ an, mein Ritter werth!</l>
+					<l>Wer hat dich solche Streich’ gelehrt?</l>
+					<l>Der Held bedacht’ sich nicht zu lang:</l>
+					<l>Die Streiche sind bei uns im Schwang,</l>
+					<l>Sie sind bekannt im ganzen Reiche,</l>
+					<l>Man nennt sie halt nur Schwabenstreiche.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.014</idno>
+					</title>
+					<title n="Geschichtslyrik">Barbarossa</title>
+					<author n="Geschichtslyrik">Rückert, Friedrich</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Zurburosu.</head>
+					<l>Der alte Barbarossa,</l>
+					<l>Der Kaiser Friederich,</l>
+					<l>Im unterird’schen Schlosse</l>
+					<l>Hält er verzaubert sich.</l>
+					<l>Er ist niemals gestorben,</l>
+					<l>Er lebt darin noch jetzt,</l>
+					<l>Er hat im Schloß verborgen</l>
+					<l>Zum Schlaf sich hingesetzt.</l>
+					<l>Er hat hinabgenommen</l>
+					<l>Des Reiches Herrlichkeit</l>
+					<l>Und wird einst wiederkommen</l>
+					<l>Mit ihr, zu seiner Zeit.</l>
+					<l>Der Stuhl ist elfenbeinern,</l>
+					<l>Darauf der Kaiser sitzt;</l>
+					<l>Der Tisch ist marmelsteinern,</l>
+					<l>Worauf sein Haupt er stützt.</l>
+					<l>Sein Bart ist nicht von Flachse,</l>
+					<l>Er ist von Feuersglut,</l>
+					<l>Ist durch den Tisch gewachsen,</l>
+					<l>Worauf sein Kinn ausruht.</l>
+					<l>Er nickt als wie im Traume,</l>
+					<l>Sein Aug’ halb offen zwinkt;</l>
+					<l>Und je nach langem Raume</l>
+					<l>Er einem Knaben winkt.</l>
+					<l>Er spricht im Schlaf zum Knaben:</l>
+					<l>Geh’ hin vors Schloß, o Zwerg,</l>
+					<l>Und sieh, ob noch die Raben</l>
+					<l>Herfliegen um den Berg!</l>
+					<l>Und wenn die alten Raben</l>
+					<l>Noch fliegen immerdar,</l>
+					<l>So muß ich auch noch schlafen</l>
+					<l>Verzaubert hundert Jahr’.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.015</idno>
+					</title>
+					<title n="Geschichtslyrik">Der Schenk von Limburg</title>
+					<author n="Geschichtslyrik">Uhland, Ludwig</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Der ehenn bon Vimhburg.</head>
+					<l>Zu Limburg auf der Feste,</l>
+					<l>Da wohnt’ ein edler Graf,</l>
+					<l>Den keiner seiner Gäste</l>
+					<l>Jemals zu Hause traf.</l>
+					<l>Er trieb sich allerwegen</l>
+					<l>Gebirg und Wald entlang,</l>
+					<l>Kein Sturm und auch kein Regen</l>
+					<l>Verleidet’ ihm den Gang.</l>
+					<l>Er trug ein Wams von Leder</l>
+					<l>Und einen Jägerhut</l>
+					<l>Mit mancher wilden Feder;</l>
+					<l>Das steht den Jägern gut.</l>
+					<l>Es hing ihm an der Seiten</l>
+					<l>Ein Trinkgefäß von Buchs;</l>
+					<l>Gewaltig konnt’ er schreiten,</l>
+					<l>Und war von hohem Wuchs.</l>
+					<l>Wohl hatt’ er Knecht’ und Mannen</l>
+					<l>Und hatt ein tüchtig Roß,</l>
+					<l>Ging doch zu Fuß von dannen,</l>
+					<l>Und ließ daheim den Troß.</l>
+					<l>Es war sein ganz Geleite</l>
+					<l>Ein Jagdspieß, stark und lang,</l>
+					<l>An dem er über breite</l>
+					<l>Waldströme kühn sich schwang.</l>
+					<l>Nun hielt auf Hohenstaufen</l>
+					<l>Der deutsche Kaiser Haus.</l>
+					<l>Der zog mit hellen Haufen</l>
+					<l>Einstmals zu jagen aus.</l>
+					<l>Er rannt’ auf eine Hinde</l>
+					<l>So heiß und hastig vor,</l>
+					<l>Daß ihn sein Jagdgesinde</l>
+					<l>Im wilden Forst verlor.</l>
+					<l>Bei einer kühlen Quelle</l>
+					<l>Da macht’ er endlich Halt;</l>
+					<l>Gezieret war die Stelle</l>
+					<l>Mit Blumen mannigfalt.</l>
+					<l>Hier dacht’ er sich zu legen</l>
+					<l>Zu einem Mittagsschlaf,</l>
+					<l>Da rauscht’ es in den Hägen,</l>
+					<l>Und stand vor ihm der Graf.</l>
+					<l>Da hub er an zu schelten:</l>
+					<l>Treff’ ich den Nachbar hie?</l>
+					<l>Zu Hause weilt er selten,</l>
+					<l>Zu Hofe kömmt er nie:</l>
+					<l>Man muß im Walde streifen,</l>
+					<l>Wenn man ihn fahen will,</l>
+					<l>Man muß ihn tapfer greifen,</l>
+					<l>Sonst hält er nirgend still.</l>
+					<l>Als drauf ohn’ alle Fährde</l>
+					<l>Der Graf sich niederließ,</l>
+					<l>Und neben in die Erde</l>
+					<l>Die Jägerstange stieß,</l>
+					<l>Da griff mit beiden Händen</l>
+					<l>Der Kaiser nach dem Schaft:</l>
+					<l>Den Spieß muß ich mir pfänden,</l>
+					<l>Ich nehm’ ihn mir zur Hast.</l>
+					<l>Der Spieß ist mir verfangen,</l>
+					<l>Deß ich so lang begehrt,</l>
+					<l>Du sollst dafür empfangen</l>
+					<l>Hier dies mein bestes Pferd.</l>
+					<l>Nicht schweifen im Gewälde</l>
+					<l>Darf mir ein solcher Mann,</l>
+					<l>Der mir zu Hof und Felde</l>
+					<l>Viel besser dienen kann</l>
+					<l>Herr Kaiser, wollt vergeben!</l>
+					<l>Ihr macht das Herz mir schwer.</l>
+					<l>Laßt mir mein freies Leben,</l>
+					<l>Und laßt mir meinen Speer!</l>
+					<l>Ein Pferd hab’ ich schon eigen,</l>
+					<l>Für eures sag’ ich Dank;</l>
+					<l>Zu Rosse will ich steigen,</l>
+					<l>Bin ich mal alt und krank.</l>
+					<l>Mit dir ist nicht zu streiten,</l>
+					<l>Du bist mir allzu stolz;</l>
+					<l>Doch führst du an der Seiten</l>
+					<l>Ein Trinkgefäß von Hol;</l>
+					<l>Nun macht die Jagd mich dürsten,</l>
+					<l>Drum thu mir das, Gesell,</l>
+					<l>Und gib mir eins zu bürsten</l>
+					<l>Aus diesem Wasseruell.</l>
+					<l>Der Graf hat sich erhoben,</l>
+					<l>Er schwenkt den Becher klar,</l>
+					<l>Er füllt ihn an bis oben,</l>
+					<l>Hält ihn dem Kaiser dar.</l>
+					<l>Der schlürft mit vollen Zügen</l>
+					<l>Den kühlen Trank hinein,</l>
+					<l>Und zeigt ein solch Vergnügen,</l>
+					<l>Als wär’s der beste Wein.</l>
+					<l>Dann faßt der schlaue Zecher</l>
+					<l>Den Grafen bei der Hand:</l>
+					<l>Du schwenktest mir den Becher</l>
+					<l>Und fülltest ihn zum Rand;</l>
+					<l>Du hieltest mir zum Munde</l>
+					<l>Das labende Getränk:</l>
+					<l>Du bist von dieser Stunde</l>
+					<l>Des deutschen Reiches Schenk!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.016</idno>
+					</title>
+					<title n="Geschichtslyrik">Enzios Ende</title>
+					<author n="Geschichtslyrik">Zimmermann, Friedrich Wilhelm</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">önig Enzios Tod.</head>
+					<l>,O König, schöner König</l>
+					<l>Mit deinem goldnen Haar,</l>
+					<l>Mit deinen blauen Augen,</l>
+					<l>Gefangner stolzer Aar!</l>
+					<l>Wie Renos Welle schallet</l>
+					<l>Dein Lied so lustig und frei;</l>
+					<l>Im Kerker und in Banden</l>
+					<l>Bricht nicht dein Herz entzwei? —</l>
+					<l>Im Kerker und in Banden</l>
+					<l>Blieb Lust und Hoffen mir treu,</l>
+					<l>Und ob sie den Leib mir umwanden</l>
+					<l>Mit Ketten, die Seele blieb frei.</l>
+					<l>Noch leuchtet am Himmel die Sonne,</l>
+					<l>Die Sterne, sie glänzen noch hell,</l>
+					<l>Noch trägt mein Vater die Krone,</l>
+					<l>Der rettet, der reitet mich schnell. —</l>
+					<l>O König, schöner König,</l>
+					<l>Wirf Lust und Hoffen ins Meer!</l>
+					<l>Die Sonne leuchtet am Himmel,</l>
+					<l>Die goldene Sonne nicht mehr!</l>
+					<l>Laß alle Schleusen springen</l>
+					<l>Des Schmerzes blutigroth!</l>
+					<l>Dein Vater ist gestorben,</l>
+					<l>Der Kaiser, der Kaiser ist todt. —</l>
+					<l>Und ist mein Vater gestorben,</l>
+					<l>Der große Friedrich todt,</l>
+					<l>So sei sie Gott geklaget,</l>
+					<l>Des Reichs und meine Noth!</l>
+					<l>Zehn Monde will ich klagen</l>
+					<l>Ein großes, tiefes Leid,</l>
+					<l>Zehn Monde will ich tragen</l>
+					<l>Ein schwarzes Trauerkleid.</l>
+					<l>Die Vögel will ich lehren</l>
+					<l>Meines Schmerzes Melodien,</l>
+					<l>Die Wogen sollen klagend</l>
+					<l>Nach meinen Weisen ziehn.</l>
+					<l>Doch locket der Frühling wieder</l>
+					<l>Die Klänge der Lust herfür:</l>
+					<l>Noch glänzen am Himmel die Sterne,</l>
+					<l>Noch leben die Brüder mir —</l>
+					<l>O König, schöner König,</l>
+					<l>Wirf Lust und Hoffen ins Meer!</l>
+					<l>Die Sterne, die glänzen am Himmel,</l>
+					<l>Die hellen Sterne nicht mehr.</l>
+					<l>Die Brüder sind gefallen</l>
+					<l>In heißer, blutiger Schlacht;</l>
+					<l>Du bist die letzte Trümmer</l>
+					<l>Von deines Hauses Pracht. —</l>
+					<l>Und sind gestürzt aus den Höhen</l>
+					<l>Die Sterne so feurig und klar,</l>
+					<l>So will ich mit Staub mich besäen,</l>
+					<l>Mit Asche dies goldene Haar.</l>
+					<l>Wie ein Sohn um seine Mutter,</l>
+					<l>Ums Kind die Nachtigall,</l>
+					<l>Will in blutigen Thränen ich klagen</l>
+					<l>Um meines Hauses Fall.</l>
+					<l>Doch wird’s auf den Auen lustig</l>
+					<l>Und schallet der Vögel Gesang,</l>
+					<l>So hall’ im Thurm auch wieder</l>
+					<l>Aufs neue der Freude Klang!</l>
+					<l>Mein Vater stieg in den Himmel,</l>
+					<l>Die Brüder sanken ins Grab;</l>
+					<l>Doch Freund und Harf’ und Liebe,</l>
+					<l>Das ist’s, was ich noch hab.</l>
+					<l>Zwei Sonnen, der Liebsten Augen,</l>
+					<l>Sie schmücken das Kerkerhaus</l>
+					<l>Mit himmlisch hellen Strahlen</l>
+					<l>Zum Königssaal mir aus.</l>
+					<l>Des Freundes Muth verschönet</l>
+					<l>Den Bund beim rosigen Wein,</l>
+					<l>Und lustiges Harfenspiel tönet</l>
+					<l>Ins blühende Land hinein. —</l>
+					<l>O König, schöner König,</l>
+					<l>Wirf Lust und Hoffen ins Meer!</l>
+					<l>Ich sah sie gestern begraben,</l>
+					<l>Dein Herzlieb ist nicht mehr.</l>
+					<l>Im Unglück dein heitrer Geselle</l>
+					<l>Der treue Freund ist todt;</l>
+					<l>Heut’ Nacht hat er verblutet</l>
+					<l>Für dich auf dem Schaffot.</l>
+					<l>Und ist mein Herzlieb gestorben</l>
+					<l>Und hat verblutet die Treu’,</l>
+					<l>Das könnt’ ein Herz wohl brechen,</l>
+					<l>Das Herz im Leib entzwei.</l>
+					<l>Den Vater, die Brüder, die Liebe,</l>
+					<l>Den Freund verschlang das Grab,</l>
+					<l>So bist du, Harfe, mein Alles,</l>
+					<l>Was ich im Leid noch hab’!</l>
+					<l>Zur Klage will ich dich stimmen,</l>
+					<l>Daß bleich die Sonne scheint,</l>
+					<l>Daß Mond und Stern erblinden</l>
+					<l>Und Ros’ und Lilie weint.</l>
+					<l>Und zwischen die Klagen web’ ich</l>
+					<l>Die alten Lieder hinein,</l>
+					<l>Daß mich die Geister umschweben</l>
+					<l>Der Herzallerliebsten mein.</l>
+					<l>Die alten lustigen Lieder,</l>
+					<l>Sie seien die goldene Brück,</l>
+					<l>Die trage mein weißes Liebchen</l>
+					<l>Ans heiße Herz mir zurück!</l>
+					<l>Die alten lustigen Lieder,</l>
+					<l>Die rufen als Glockengeläut</l>
+					<l>Den lieben Freund aus dem Grabe,</l>
+					<l>Die alte fröhliche Zeit. —</l>
+					<l>O König, schöner König,</l>
+					<l>Wirf Lust und Hoffen ins Meer!</l>
+					<l>In diesen Mauern schallet</l>
+					<l>Kein Klang der Saiten mehr.</l>
+					<l>Die Harfe, die heitere Seele,</l>
+					<l>Die woll’n sie zerschlagen dir:</l>
+					<l>Einsam in der Kerkerhöhle</l>
+					<l>Vertrauern sollst du hinfür. —</l>
+					<l>Und woll’n sie die Harf mir zerschlagen,</l>
+					<l>Fahr wohl denn, Lust und Schmerz!</l>
+					<l>So mögen sie mich begrabe,</l>
+					<l>Sie haben gebrochen mein Herz!</l>
+					<l>Mein Herz und meine Harfe,</l>
+					<l>So singt eu’r Schwanenlied!</l>
+					<l>Ade, du schöne Erde!</l>
+					<l>Der letzte Staufe schied</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.017</idno>
+					</title>
+					<title n="Geschichtslyrik">Der Graf von Habsburg</title>
+					<author n="Geschichtslyrik">Schiller, Friedrich</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Der Gruf bon ubburg.</head>
+					<l>Zu Aachen in seiner Kaiserpracht,</l>
+					<l>Im alterthümlichen Saale,</l>
+					<l>Saß König Rudolfs heilige Macht</l>
+					<l>Beim festlichen Krönungsmahle.</l>
+					<l>Die Speisen trug der Pfalzgraf des Rheins,</l>
+					<l>Es schenkte der Böhme des perlenden Weins,</l>
+					<l>Und alle die Wähler, die sieben,</l>
+					<l>Wie der Sterne Chor um die Sonne sich stellt,</l>
+					<l>Umstanden geschäftig den Herrscher der Welt,</l>
+					<l>Die Würde des Amtes zu üben.</l>
+					<l>Und rings erfüllte den hohen Balkon</l>
+					<l>Das Volk in freud’gem Gedränge,</l>
+					<l>Laut mischte sich in der Posaunen Ton</l>
+					<l>Das jauchzende Rufen der Menge;</l>
+					<l>Denn geendigt nach langem verderblichem Streit</l>
+					<l>War die kaiserlose, die schreckliche Zeit,</l>
+					<l>Und ein Richter war wieder auf Erden.</l>
+					<l>Nicht blind mehr waltet der eiserne Speer,</l>
+					<l>Nicht fürchtet der Schwache, der Friedliche mehr,</l>
+					<l>Des Mächtigen Beute zu werden.</l>
+					<l>Und der Kaiser ergreift den goldnen Pokal.</l>
+					<l>Und spricht mit zufriedenen Blicken:</l>
+					<l>Wohl glänzet das Fest, wohl pranget das Mahl,</l>
+					<l>Mein königlich Herz zu entzücken;</l>
+					<l>Doch den Sänger vermiss’ ich, den Bringer der Lust,</l>
+					<l>Der mit süßem Klang mir bewege die Brust</l>
+					<l>Und mit göttlich erhabenen Lehren.</l>
+					<l>So hab’ ich’s gehalten von Jugend an,</l>
+					<l>Und was ich als Ritter gepflegt und gethan,</l>
+					<l>Nicht will ichs als Kaiser entbehren.</l>
+					<l>Und sieh! in der Fürsten umgebenden Kreis</l>
+					<l>Trat der Sänger im langen Talare;</l>
+					<l>Ihm glänzte die Locke silberweiß</l>
+					<l>Gebleicht von der Fülle der Jahre.</l>
+					<l>Süßer Wohllaut schläft in der Saiten Gold,</l>
+					<l>Der Sänger singt von der Minne Sold,</l>
+					<l>Er preiset das Höchste, das Beste,</l>
+					<l>Was das Herz sich wünscht, was der Sinn begehrt;</l>
+					<l>Doch sage, was ist des Kaisers werth</l>
+					<l>An seinem herrlichsten Feste?</l>
+					<l>Nicht gebieten werd ich dem Sänger, spricht</l>
+					<l>Der Herrscher mit lächelndem Munde,</l>
+					<l>Er steht in des größeren Herren Pflicht,</l>
+					<l>Er gehorcht der gebietenden Stunde.</l>
+					<l>Wie in den Lüften der Sturmwind saust,</l>
+					<l>Man weiß nicht, von wannen er kommt und braust,</l>
+					<l>Wie der Quell aus verborgenen Tiefen,</l>
+					<l>So des Sängers Lied aus dem Jnnern schallt,</l>
+					<l>Und wecket der dunkeln Gefühle Gewalt,</l>
+					<l>Die im Herzen wunderbar schliefen.</l>
+					<l>Und der Sänger rasch in die Saiten fällt</l>
+					<l>Und beginnt sie mächtig zu schlagen:</l>
+					<l>Aufs Waidwerk hinaus ritt ein edler Held,</l>
+					<l>Den flüchtigen Gemsbock zu jagen.</l>
+					<l>Ihm folgte der Knapp’ mit dem Jägergeschoß,</l>
+					<l>Und als er auf seinem stattlichen Roß</l>
+					<l>In eine Au kommt geritten,</l>
+					<l>Ein Glöcklein hört er erklingen fern,</l>
+					<l>Ein Priester wars mit dem Leib des Herrn,</l>
+					<l>Voran kam der Meßner geschritten.</l>
+					<l>Und der Graf zur Erde sich neiget hin,</l>
+					<l>Das Haupt mit Demuth entblößet,</l>
+					<l>Zu verehren mit gläubigem Christensinn,</l>
+					<l>Was alle Menschen erlöset.</l>
+					<l>Ein Bächlein aber rauschte durchs Feld,</l>
+					<l>Von des Gießbachs reißenden Fluten geschwellt,</l>
+					<l>Das hemmte der Wanderer Tritte,</l>
+					<l>Und beiseit legt jener das Sakrament,</l>
+					<l>Von den Füßen zieht er die Schuhe behend,</l>
+					<l>Damit er das Bächlein durchschritte.</l>
+					<l>Was schaffst du? redet der Graf ihn an,</l>
+					<l>Der ihn verwundert betrachtet.—</l>
+					<l>Herr, ich walle zu einem sterbenden Mann,</l>
+					<l>Der nach der Himmelskost schmachtet;</l>
+					<l>Und da ich mich nahe des Baches Steg,</l>
+					<l>Da hat ihn der strömende Gießbach hinweg</l>
+					<l>Im Strudel der Wellen gerissen.</l>
+					<l>Drum daß dem Lechzenden werde sein Heil,</l>
+					<l>So will ich das Wässerlein jetzt in Eil’</l>
+					<l>Durchwaten mit nackenden Füßen.</l>
+					<l>Da setzt ihn der Graf auf sein ritterlich Pferd</l>
+					<l>Und reicht ihm die prächtigen Zäume,</l>
+					<l>Daß er labe den Kranken, der sein begehrt,</l>
+					<l>Und die heilige Pflicht nicht versäume.</l>
+					<l>Und er selber auf seines Knappen Thier</l>
+					<l>Vergnüget noch weiter des Jagens Begier;</l>
+					<l>Der Andre die Reise vollführet;</l>
+					<l>Und am nächsten Morgen, mit dankendem Blick,</l>
+					<l>Da bringt er dem Grafen sein Roß zurück,</l>
+					<l>Bescheiden am Zügel geführet.</l>
+					<l>Nicht wolle das Gott, rief mit Demuthsinn</l>
+					<l>Der Graf, daß zum Streiten und Jagen</l>
+					<l>Das Roß ich beschritte fürderhin,</l>
+					<l>Das meinen Schöpfer getragen!</l>
+					<l>Und magst dus nicht haben zu eignem Gewinnst,</l>
+					<l>So bleibt es gewidmet dem göttlichen Dienst:</l>
+					<l>Denn ich hab’ es Dem ja gegeben,</l>
+					<l>Von dem ich Ehre und irdisches Gut</l>
+					<l>Zu Lehen trage, und Leib und Blut</l>
+					<l>Und Seele und Athem und Leben.</l>
+					<l>So mög’ euch Gott, der allmächtige Hort,</l>
+					<l>Der das Flehen der Schwachen erhöret,</l>
+					<l>Zu Ehren euch bringen hier und dort,</l>
+					<l>So wie ihr jetzt ihn geehret.</l>
+					<l>Ihr seid ein mächtiger Graf, bekannt</l>
+					<l>Durch ritterlich Walten im Schweizerland,</l>
+					<l>Euch blühn sechs liebliche Töchter.</l>
+					<l>So mögen sie, rief er begeistert aus,</l>
+					<l>Sechs Kronen euch bringen in euer Haus</l>
+					<l>Und glänzen die spätsten Geschlechter!</l>
+					<l>Und mit sinnendem Haupt saß der Kaiser da,</l>
+					<l>Als dächt’ er vergangener Zeiten;</l>
+					<l>Jetzt, da er dem Sänger ins Auge sah,</l>
+					<l>Da ergreift ihn der Worte Bedeuten.</l>
+					<l>Die Züge des Priesters erkennt er schnell,</l>
+					<l>Und verbirgt der Thränen stürzenden Quell</l>
+					<l>In des Mantels purpurnen Falten.</l>
+					<l>Und Alles blickte den Kaiser an,</l>
+					<l>Und erkannte den Grafen, der das gethan,</l>
+					<l>Und verehrte das göttliche Walten.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.018</idno>
+					</title>
+					<title n="Geschichtslyrik">Kaiser Rudolfs Ritt zu Grabe</title>
+					<author n="Geschichtslyrik">Kerner, Justinus</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">niner Zudolts Zitt zum Grube.</head>
+					<l>Auf der Burg zu Germersheim,</l>
+					<l>Stark am Geist, am Leibe schwach,</l>
+					<l>Sitzt der greise Kaiser Rudolf,</l>
+					<l>Spielend das gewohnte Schach.</l>
+					<l>Und er spricht: Ihr guten Meister!</l>
+					<l>Aerzte! sagt mir ohne Zagen:</l>
+					<l>Wann aus dem zerbrochnen Leib</l>
+					<l>Wird der Geist zu Gott getragen?</l>
+					<l>Und die Meister sprechen: Herr,</l>
+					<l>Wohl noch heut erscheint die Stunde.</l>
+					<l>Freundlich lächelnd spricht der Greis:</l>
+					<l>Meister! Dank für diese Kunde!</l>
+					<l>Auf nach Speier, auf nach Speier!</l>
+					<l>Ruft er, als das Spiel geendet;</l>
+					<l>Wo so mancher deutsche Held</l>
+					<l>Liegt begraben, sei’s vollendet!</l>
+					<l>Blast die Hörner! bringt das Roß,</l>
+					<l>Das mich oft zur Schlacht getragen!</l>
+					<l>Zaudernd stehn die Diener all;</l>
+					<l>Doch er ruft: Folgt ohne Zagen!</l>
+					<l>Und das Schlachtroß wird gebracht.</l>
+					<l>Nicht zum Kampf, zum ewgen Frieden,</l>
+					<l>Spricht er, trage, treuer Freund,</l>
+					<l>Jetzt den Herrn, den lebensmüden!</l>
+					<l>Weinend steht der Diener Schaar,</l>
+					<l>Als der Greis auf hohem Rosse,</l>
+					<l>Rechts und links ein Kapellan,</l>
+					<l>Zieht, halb Leich’, aus seinem Schlosse.</l>
+					<l>Trauernd neigt des Schlosses Lind’</l>
+					<l>Vor ihm ihre Aeste nieder,</l>
+					<l>Vögel, die in ihrer Hut,</l>
+					<l>Singen wehmuthsvolle Lieder.</l>
+					<l>Mancher eilt des Wegs daher,</l>
+					<l>Der gehört die bange Sage,</l>
+					<l>Sieht des Helden sterbend Bild,</l>
+					<l>Und bricht aus in laute Klage.</l>
+					<l>Aber nur von Himmelslust</l>
+					<l>Spricht der Greis mit jenen zweien,</l>
+					<l>Lächelnd blickt sein Angesicht,</l>
+					<l>Als ritt’ er zur Lust im Maien.</l>
+					<l>Von dem hohen Dom zu Speier</l>
+					<l>Hört man dumpf die Glocken schallen</l>
+					<l>Ritter, Bürger, zarte Frau’n</l>
+					<l>Weinend ihm entgegenwallen.</l>
+					<l>In den hohen Kaisersaal</l>
+					<l>Ist er rasch noch eingetreten;</l>
+					<l>Sitzend dort auf goldnem Stuhl,</l>
+					<l>Hört man für sein Volk ihn beten.</l>
+					<l>Reichet mir den heilgen Leib!</l>
+					<l>Spricht er dann mit bleichem Munde;</l>
+					<l>Drauf verjüngt sich sein Gesicht</l>
+					<l>Um die mitternächt’ge Stunde.</l>
+					<l>Da auf einmal wird der Saal</l>
+					<l>Hell von überird’schem Lichte,</l>
+					<l>Und entschlummert sitzt der Held,</l>
+					<l>Himmelsruh’ im Angesichte.</l>
+					<l>Glocken dürfen’s nicht verkünden,</l>
+					<l>Boten nicht zur Leiche bieten,</l>
+					<l>Alle Herzen längs des Rheins</l>
+					<l>Fühlen, daß der Held verschieden.</l>
+					<l>Nach dem Dome strömt das Volk,</l>
+					<l>Schwarz, unzähligen Gewimmels.</l>
+					<l>Der empfing des Helden Leib,</l>
+					<l>Seinen Geist der Dom des Himmels.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.019</idno>
+					</title>
+					<title n="Geschichtslyrik">Der Landgraf von Thüringen</title>
+					<author n="Geschichtslyrik">Menzel, Wolfgang</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Zer Tundgruk bon Thüringen.</head>
+					<l>Der edle Landgraf Friederich</l>
+					<l>Mit der gebißnen Wange</l>
+					<l>Auf seiner Wartburg ritterlich</l>
+					<l>Sich wehrt und schirmet lange.</l>
+					<l>In seinen Adern heiß ihm rollt</l>
+					<l>Das Blut der Hohenstaufen.</l>
+					<l>Darum ihm Papst und Habsburg grollt,</l>
+					<l>Die ihm das Land verkaufen.</l>
+					<l>Der Kaiser Albrecht, Rudolfs Sohn,</l>
+					<l>Zertritt die deutschen Lande,</l>
+					<l>Fügt zu dem Unrecht kalten Hohn</l>
+					<l>Und zu dem Elend Schande.</l>
+					<l>Die Wartburg, auf den Fels erhöht,</l>
+					<l>Die kann er nicht gewinnen,</l>
+					<l>Der edlen Freiheit Wiege steht</l>
+					<l>In ihren stolen Zinnen.</l>
+					<l>Doch droht des Hungers Uebermacht</l>
+					<l>Die Burg zu übermannen.</l>
+					<l>Drum führt der Landgraf still bei Nacht</l>
+					<l>Die Seinigen von dannen.</l>
+					<l>Sie reiten über Stock und Stein,</l>
+					<l>Zu fliehn des Kaisers Ketten.</l>
+					<l>Der Landgraf denket nur allein</l>
+					<l>Sein liebes Kind zu retten.</l>
+					<l>Er trägt ihn selbst auf seinem Arm,</l>
+					<l>Den Knaben neugeboren;</l>
+					<l>Vom starken Ritt wird ihm so warm,</l>
+					<l>Schon bluten ihm die Sporen.</l>
+					<l>Fort, fort! dort weht das Reichspanier,</l>
+					<l>Schon blinken tausend Speere.</l>
+					<l>Der Kaiser ist’s, voll blut’ger Gier,</l>
+					<l>Mit seinem ganzen Heere!</l>
+					<l>Und wärens mehr, als Sand am Meer,</l>
+					<l>Der Landgraf wird’s nicht achten.</l>
+					<l>Sein kleines Kind, es weint so sehr,</l>
+					<l>Und will vor Durst verschmachten.</l>
+					<l>Vor einem schlechten Bauernhaus</l>
+					<l>Ruft er: Um Gotteswillen</l>
+					<l>Du junge Mutter, komm’ heraus,</l>
+					<l>Den Knaben mir zu stillen!</l>
+					<l>Derweil umwendet er sein Pferd</l>
+					<l>Mit grimmen Zornesflammen,</l>
+					<l>Und wo er hinschlägt mit dem Schwert,</l>
+					<l>Stürzt Mann und Roß zusammen.</l>
+					<l>Die Seinen schaaren voller Wuth</l>
+					<l>Sich um den edlen Helden,</l>
+					<l>Daß von dem hier vergoßnen Blut</l>
+					<l>Noch späte Sagen melden.</l>
+					<l>Denn mehr als tausend Feinde sind</l>
+					<l>Hier in den Tod gesunken,</l>
+					<l>Bis sich des Landgrafs junges Kind</l>
+					<l>Hat ruhig satt getrunken.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.020</idno>
+					</title>
+					<title n="Geschichtslyrik">Graf Eberhard der Rauschebart. Die Schlacht bei Reutlingen</title>
+					<author n="Geschichtslyrik">Uhland, Ludwig</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Die Schlaeht bei entlingen.</head>
+					<l>Zu Achalm auf dem Felsen, da haust manch kühner Aar,</l>
+					<l>Graf Ulrich, Sohn des Greiners, mit seiner Ritterschaar;</l>
+					<l>Wild rauschen ihre Flügel um Reutlingen, die Stadt,</l>
+					<l>Bald scheint sie zu erliegen, vom heißen Drange mat.</l>
+					<l>Doch plötzlich einst erheben die Städter sich zu Nacht, 5</l>
+					<l>Ins Urachthal hinüber sind sie mit großer Macht,</l>
+					<l>Bald steigt von Dorf und Mühle die Flamme blutigroth,</l>
+					<l>Die Heerden weggetrieben, die Hirten liegen todt.</l>
+					<l>Herr Ulrich hats vernommen, er ruft im grimmen Zorn:</l>
+					<l>In eure Stadt soll kommen kein Huf und auch kein</l>
+					<l>Horn!</l>
+					<l>Da sputen sich die Ritter, sie wappnen sich in Stahl,</l>
+					<l>Sie heischen ihre Rosse, sie reiten stracks zuthal.</l>
+					<l>Ein Kirchlein stehet drunten, Sankt Leonhard geweiht,</l>
+					<l>Dabei ein grüner Anger, der scheint beguem zum Streit.</l>
+					<l>Sie springen von den Pferden, sie ziehen stolze Reih’n, 15</l>
+					<l>Die langen Spieße starren, wohlauf! wer wagt sich drein?</l>
+					<l>Schon ziehn vom Urachthale die Städter fern herbei,</l>
+					<l>Man hört der Männer Jauchzen, der Heerden wild Geschrei,</l>
+					<l>Man sieht sie fürder schreiten, ein wohlgerüstet Heer;</l>
+					<l>Wie flattern stolz die Banner! Wie blitzen Schwert und</l>
+					<l>Speer!</l>
+					<l>Nun schließ dich fest zusammen, du ritterliche Schaar!</l>
+					<l>Wohl hast du nicht geahnet so dräuende Gefahr.</l>
+					<l>Die übermächt’gen Rotten, sie stürmen an mit Schwall,</l>
+					<l>Die Ritter stehn und starren wie Fels und Mauerwall.</l>
+					<l>Zu Reutlingen am Zwinger, da ist ein altes Thor, 25</l>
+					<l>Längst wob mit dichten Ranken der Epheu sich davor,</l>
+					<l>Man hat es schier vergessen, nun kracht’s mit einmal auf,</l>
+					<l>Und aus dem Zwinger stürzet, gedrängt, ein Bürgerhauf’.</l>
+					<l>Den Rittern in den Rücken fällt er mit grauser Wuth,</l>
+					<l>Heut will der Städter baden im heißen Ritterblut. 30</l>
+					<l>Wie haben da die Gerber so meisterlich gegerbt!</l>
+					<l>Wie haben da die Färber so purpurroth gefärbt!</l>
+					<l>Heut nimmt man nicht gefangen, heut geht es auf den Tod,</l>
+					<l>Heut spritzt das Blut wie Regen, der Anger blümt sich roth.</l>
+					<l>Stets drängender umschlossen und wüthender bestürmt, 35</l>
+					<l>Ist rings von Bruderleichen die Ritterschaar umthürmt.</l>
+					<l>Das Fähnlein ist verloren, Herr Ulrich blutet stark,</l>
+					<l>Die noch am Leben blieben, sind müde bis ins Mark.</l>
+					<l>Da haschen sie nach Rossen und schwingen sich darauf,</l>
+					<l>Sie hauen durch, sie kommen zur festen Burg hinauf. 40</l>
+					<l>Ach Allm—stöhnt’ einst ein Ritter, ihn traf des Mörders</l>
+					<l>Stoß —</l>
+					<l>Allmächt’ger! wollt’ er rufen — man hieß davon das Schloß.</l>
+					<l>Herr Ulrich sinkt vom Sattel, halbtodt, voll Blut und Qualm,</l>
+					<l>Hätt’ nicht das Schloß den Namen, man hieß es jetzt:</l>
+					<l>Achalm.</l>
+					<l>Wohl kommt am andern Morgen zu Reutlingen ans Thor 45</l>
+					<l>Manch trauervoller Knappe, der seinen Herrn verlor.</l>
+					<l>Dort auf dem Rathhaus liegen die Todten all gereiht,</l>
+					<l>Man führt dahin die Knechte. mit sicherem Geleit.</l>
+					<l>Dort liegen mehr denn sechzig, so blutig und so bleich,</l>
+					<l>Nicht jeder Knapp erkennet den todten Herrn sogleich. 50</l>
+					<l>Dann wird ein jeder Leichnam von treuen Dieners Hand</l>
+					<l>Gewaschen und gekleidet in weißes Grabgewand.</l>
+					<l>Auf Bahren und auf Wagen, getragen und geführt,</l>
+					<l>Mit Eichenlaub bekränzet, wie’s Helden wohl gebührt,</l>
+					<l>So geht es nach dem Thore, die alte Stadt entlang, 55</l>
+					<l>Dumpf tönet von den Thürmen der Todtenglocken Klang.</l>
+					<l>Götz Weißenheim eröffnet den langen Leichenzug,</l>
+					<l>Er war es, der im Streite des Grafen Banner trug;</l>
+					<l>Er hatt es nicht gelassen, bis er erschlagen war,</l>
+					<l>Drum mag er würdig führen auch noch die todte Schaar. 0</l>
+					<l>Drei edle Grafen folgen, bewährt im Schildesamt,</l>
+					<l>Von Tübingen, von Zollern, von Schwarzenberg entstammt.</l>
+					<l>O Zollern! deine Leiche umschwebt ein lichter Kranz:</l>
+					<l>Sahst du vielleicht noch sterbend dein Haus im künftgen</l>
+					<l>Glanz?</l>
+					<l>Von Sachsenheim zween Ritter, der Vater und der Sohn, 5</l>
+					<l>Die liegen still beisammen in Lilien und in Mohn,</l>
+					<l>Auf ihrer Stammburg wandelt von Alters her ein Geist,</l>
+					<l>Der längst mit Klaggeberden auf schweres Unheil weist.</l>
+					<l>Einst war ein Herr von Lustnau vom Scheintod aufer—</l>
+					<l>wacht,</l>
+					<l>Er kehrt im Leichentuche zu seiner Frau bei Nacht, 0</l>
+					<l>Davon man sein Geschlechte die Todten hieß im Scherz;</l>
+					<l>Hier bringt man ihrer Einen, den traf der Tod ins Herz.</l>
+					<l>Das Lied, es folgt nicht weiter, des Jammers ist genug,</l>
+					<l>Will Jemand Alle wissen, die man von dannen trug,</l>
+					<l>Dort auf den Rathhausfenstern, in Farben bunt und klar, 5</l>
+					<l>Stellt jeden Ritters Name und Wappenschild sich dar.</l>
+					<l>Als nun von seinen Wunden Graf Ulrich ausgeheilt,</l>
+					<l>Da reitet er nach Stuttgart, er hat nicht sehr geeilt;</l>
+					<l>Er trifft den alten Vater allein am Mittagsmahl,</l>
+					<l>Ein frostiger Willkommen! kein Wort ertönt im Saal. S0</l>
+					<l>Dem Vater gegenüber sitzt Ulrich an dem Tisch,</l>
+					<l>Er schlägt die Augen nieder, man bringt ihm Wein und</l>
+					<l>Fisch;</l>
+					<l>Da faßt der Greis ein Messer, und spricht kein Wort dabei,</l>
+					<l>Und schneidet zwischen Beiden das Tafeltuch entzwei.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.021</idno>
+					</title>
+					<title n="Geschichtslyrik">Der reichste Fürst</title>
+					<author n="Geschichtslyrik">Kerner, Justinus</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Der reithste Fürst.</head>
+					<l>Preisend mit viel schönen Reden</l>
+					<l>Ihrer Länder Werth und Zahl,</l>
+					<l>Saßen viele deutsche Fürsten</l>
+					<l>Einst zu Worms im Kaisersaal.</l>
+					<l>Herrlich, sprach der Fürst von Sachsen,</l>
+					<l>Ist mein Land und seine Macht,</l>
+					<l>Silber hegen seine Berge</l>
+					<l>Wohl in manchem tiefen Schacht.</l>
+					<l>Seht mein Land in üpp’ger Fülle,</l>
+					<l>Sprach der Pfalzgraf von dem Rhein,</l>
+					<l>Goldne Saaten in den Thälern,</l>
+					<l>Auf den Bergen edlen Wein.</l>
+					<l>Große Städte, reiche Klöster,</l>
+					<l>Ludwig, Herr zu Baiern, sprach,</l>
+					<l>Schaffen, daß mein Land den euren</l>
+					<l>Wohl nicht steht an Schätzen nach.</l>
+					<l>Eberhard, der mit dem Barte,</l>
+					<l>Würtembergs geliebter Herr,</l>
+					<l>Sprach: Mein Land hat kleine Städte,</l>
+					<l>Trägt nicht Berge silberschwer;</l>
+					<l>Doch ein Kleinod hälk’s verborgen:</l>
+					<l>Daß in Wäldern, noch so groß,</l>
+					<l>Ich mein Haupt kann kühnlich legen</l>
+					<l>Jedem Unterthan in Schooß.</l>
+					<l>Und es rief der Herr von Sachsen,</l>
+					<l>Der von Baiern, der vom Rhein:</l>
+					<l>Graf im Bart! Ihr seid der reichste,</l>
+					<l>Euer Land trägt Edelstein!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.022</idno>
+					</title>
+					<title n="Geschichtslyrik">Deutscher Brauch</title>
+					<author n="Geschichtslyrik">Grün, Anastasius</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">uiser Mur zu Morms.</head>
+					<l>Zur Gruft sank Kaiser Friedrich. Gott geb’ ihm sanfte Ruh!</l>
+					<l>Mar faßt sein gülden Scepter; ei, Sonnenaar, Glück zu!</l>
+					<l>Zu Worms nun hielt er Reichstag; auf, Fürstenschaar,</l>
+					<l>herbei,</l>
+					<l>Zu rathen und zu fördern, daß Recht und Licht gedeih!</l>
+					<l>Einst in dem dumpfen Rathsaal sprang Mar empor in</l>
+					<l>Hast,</l>
+					<l>Der Staub der Pergamente nahm ihm den Odem fast,</l>
+					<l>Die spitzen klugen Reden, die machten toll ihn schier,</l>
+					<l>Da rief er seinen Narren: Freund Kunze, komm mit mir!</l>
+					<l>Den Treu’n liebt er vor Allen, wohl einem Gärtner gleich,</l>
+					<l>Der jeden Baum mit Liebe pflegt in dem Gartenreich, 10</l>
+					<l>Doch einen sich erkoren, in dessen Schattenhut</l>
+					<l>Nach schwüler Tagesmüh’ er am liebsten abends ruht.</l>
+					<l>Es wallten nun die Beiden die Straßen ein und aus,</l>
+					<l>Dort auf dem großen Marktplatz sahn sie ein stattlich Haus,</l>
+					<l>Da rief der Kunz: Mein König, schließt Eure Augen</l>
+					<l>schnell!</l>
+					<l>Denn, traun, schon las manch einer sich blind an dieser</l>
+					<l>Stel’.</l>
+					<l>Französisch ist’s; Ihr wißt ja, wies Frankreichs Söhne</l>
+					<l>treiben,</l>
+					<l>Die anders schreiben als sprechen, und anders lesen als</l>
+					<l>schreiben,</l>
+					<l>Und anders sprechen als denken, und anders setzen als singen,</l>
+					<l>Die groß in allem Kleinen, und klein in großen Dingen.</l>
+					<l>Ein Rittersmann aus Frankreich wohnt in dem stolzen</l>
+					<l>Haus,</l>
+					<l>Sein Wappenschild, hell glänzend, hängt hoch zur Pfort</l>
+					<l>hinaus,</l>
+					<l>Mit Schnörkelzügen zierlich in blankem Goldesschein</l>
+					<l>Schrieb rings ums bunte Wappen er diese Worte ein:</l>
+					<l>Erst Gott zum Gruß wer’s lieset! Auf, Deutscher, kühn</l>
+					<l>und werth,</l>
+					<l>Hier harrt ein Schild des deinen, wenn kampfesfroh dein</l>
+					<l>Schwert,</l>
+					<l>Und magst du mich bezwingen nach Ritterbrauch und Recht,</l>
+					<l>Will ich mich dir verdingen als letzten Rüdenknecht.</l>
+					<l>Ernst schritt der König fürder; doch an des Ritters Schild</l>
+					<l>Hängt bald ein Edelknappe der Habsburg Wappenbild;</l>
+					<l>Und mit dem Frühroth harrte auf sand’gem Kampfesplan</l>
+					<l>Der König gegenüber dem fränk’schen Rittersmann.</l>
+					<l>Und höher stieg die Sonne; der Franzmann lag im Sand,</l>
+					<l>Das Siegesschwert, hell leuchtend, ragt hoch in Maens</l>
+					<l>Hand.</l>
+					<l>So schlägt ein deutscher Ritter; er sprach’s und stand</l>
+					<l>verklärt,</l>
+					<l>Wie Sanct Michael, der Sieger, mit seinem Flammenschwert.</l>
+					<l>Ihr habt Euch mir ergeben als letzten Rüdenknecht,</l>
+					<l>Wohlan, Ihr sollt erfahren nun meines Amtes Recht!</l>
+					<l>Sein Schwert nun schwang er dreimal: Steht auf, mein</l>
+					<l>Ritter werth!</l>
+					<l>So schlägt ein deutscher König, — seid brav wie Euer</l>
+					<l>Schwert!</l>
+					<l>Viel saft’ge Trauben schwellen ringsher um Worms am</l>
+					<l>Rhein,</l>
+					<l>Milch unsrer lieben Frauen, so heißt dort jener Wein;</l>
+					<l>Saugt jene Milch, ihr Greise, sie macht euch wieder zum</l>
+					<l>Kind,</l>
+					<l>O Herr, gib unserm Lande viel Milch so süß und lindl</l>
+					<l>Aus Goldgefäßen auoll sie an Marens Abendtisch,</l>
+					<l>Gleichwie aus goldnen Eutern, so labend, klar und frisch;</l>
+					<l>Wie zecht an Marens Seite der fränk’sche Rittersmann!</l>
+					<l>Wie wärmend da der Glühborn durch Kunzens Kehle rann!</l>
+					<l>Der Franzmann hob den Becher, begeistert flammt sein Blut:</l>
+					<l>Heil Mar dir, edler Deutscher, so bieder und so gut!</l>
+					<l>Hoho! rief Kunz halbgrimmig, ,jetzt bindet mit mir an,</l>
+					<l>Wer auf dies Wohl herzinn’ger und besser trinken kann!</l>
+					<l>Wie Schilde klangen die Becher zusammen jetzt mit Macht,</l>
+					<l>Die Blicke blitzten genüber, wie Lanzen in der Schlacht.</l>
+					<l>Wer Sieger blieb im Wettkampf? wohl kam es nie ans</l>
+					<l>Licht;</l>
+					<l>Frug man am Morgen die Beiden, sie wußten’s selber nicht.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.023</idno>
+					</title>
+					<title n="Geschichtslyrik">Luther und Frundsberg</title>
+					<author n="Geschichtslyrik">Hagenbach, Karl Rudolf</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Ruther und Frundsberg.</head>
+					<l>Schon harret an den Thüren</l>
+					<l>Des Volkes Menge dicht,</l>
+					<l>Als sie den Luther führen</l>
+					<l>Vor Kaiser und Gericht;</l>
+					<l>Und an der Thüre Pfosten,</l>
+					<l>Dem Eingang Luthers nah,</l>
+					<l>Steht fest auf seinem Posten</l>
+					<l>Der alte Frundsberg da.</l>
+					<l>Wie unter Blitzesflammen,</l>
+					<l>Wie unter Sturmeswehn</l>
+					<l>Zwei Eichen dicht beisammen</l>
+					<l>Auf zähen Wurzeln stehn,</l>
+					<l>So stehen kühngestaltig</l>
+					<l>Die beiden Helden dort,</l>
+					<l>In Waffen der gewaltig</l>
+					<l>Und jener in dem Wort.</l>
+					<l>Den schirmt die Pickelhaube,</l>
+					<l>Das Panzerhemd aus Erz,</l>
+					<l>Und jenem stählt der Glaube</l>
+					<l>Das vielgeprüfte Herz;</l>
+					<l>In Schlachten schaut der Eine</l>
+					<l>Dem Tod ins Angesicht,</l>
+					<l>Dem zittern die Gebeine</l>
+					<l>Auch vor dem Teufel nicht.</l>
+					<l>Der Ritter sieht den Priester</l>
+					<l>Sich werfen in den Tod,</l>
+					<l>In seinen Zügen liest er</l>
+					<l>Der Losung ernst Gebot,</l>
+					<l>Das siegen oder sterben</l>
+					<l>Den Frommverwegnen heißt,</l>
+					<l>Und vor dem Himmelserben</l>
+					<l>Beugt sich des Helden Geist.</l>
+					<l>Mönchlein! beginnt der Ritter,</l>
+					<l>Du gehest einen Gang,</l>
+					<l>Wie auch im Schlachtgewitter,</l>
+					<l>Im Mord— und Sturmesdrang</l>
+					<l>Ich noch bestanden keinen</l>
+					<l>Und keinen werd’ bestehn;</l>
+					<l>Bist du mit Gott im Reinen,</l>
+					<l>Magst du den Gang auch gehn!</l>
+					<l>So gab der greise Degen</l>
+					<l>Am heißen Kampfestag</l>
+					<l>Dem Luther seinen Segen,</l>
+					<l>Den Hand— und Ritterschlag.</l>
+					<l>Wohlauf denn, Held! und schwinge</l>
+					<l>Dein ritterliches Schwert!</l>
+					<l>Laß sehn, ob sich die Klinge</l>
+					<l>Als flammende bewährt!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.024</idno>
+					</title>
+					<title n="Geschichtslyrik">Kaiser Karl an Luthers Grab</title>
+					<author n="Geschichtslyrik">Hagenbach, Karl Rudolf</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">niner umrl un Tuthers Grab.</head>
+					<l>In Wittenberg, der starken Luthersfeste,</l>
+					<l>Ist Kaiser Karl, der Sieger, eingedrungen.</l>
+					<l>Wohl ist den Stamm zu fällen ihm gelungen,</l>
+					<l>Doch neue Wurzeln schlagen rings die Aeste.</l>
+					<l>In Luthers Feste hausen fremde Gäste,</l>
+					<l>Doch Luthers Geist, der bleibet unbezwungen;</l>
+					<l>Da, wo des Geistes Schwert er hat geschwungen,</l>
+					<l>Da ruhen billig auch des Leibes Reste.</l>
+					<l>Am Grabe steht der Kaiser, tief gerühret.</l>
+					<l>Auf denn und räche dich an den Gebeinen,</l>
+					<l>Den Flammen gib sie preis, wie sich’s gebühret!</l>
+					<l>So hört man aus der Diener Troß den Einen.</l>
+					<l>Der Kaiser spricht: Den Krieg hab’ ich geführet</l>
+					<l>Mit Lebenden; um Todte laßt uns weinen.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.025</idno>
+					</title>
+					<title n="Geschichtslyrik">Der Pilgrim von St. Just</title>
+					<author n="Geschichtslyrik">Platen, August Graf von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Der Pilgrim bor St. Zust.</head>
+					<l>Nacht ist’s, und Stürme sausen für und für:</l>
+					<l>Hispanische Mönche, schließt mir auf die Thür!</l>
+					<l>Laßt hier mich ruh’n, bis Glockenton mich weckt,</l>
+					<l>Der zum Gebet euch in die Kirche schreckt!</l>
+					<l>Bereitet mir, was euer Haus vermag,</l>
+					<l>Ein Ordenskleid und einen Sarkophag!</l>
+					<l>Gönnt mir die kleine Zelle, weiht mich ein!</l>
+					<l>Mehr als die Hälfte dieser Welt war mein.</l>
+					<l>Das Haupt, das nun der Scheere sich beguemt,</l>
+					<l>Mit mancher Krone war’s bediademt.</l>
+					<l>Die Schulter, die der Kutte nun sich bückt,</l>
+					<l>Hat kaiserlicher Hermelin geschmückt.</l>
+					<l>Nun bin ich vor dem Tod den Todten gleich,</l>
+					<l>Und fall’ in Trümmer, wie das alte Reich.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.026</idno>
+					</title>
+					<title n="Geschichtslyrik">Wallenstein vor Stralsund</title>
+					<author n="Geschichtslyrik">Günther, Karl Friedrich</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Mullenntein vor Strulaund.</head>
+					<l>Im Schatten einer Eiche</l>
+					<l>Ist Friedlands Zelt erbaut;</l>
+					<l>Es schüttelt ihre Zweige</l>
+					<l>Die alte Riesin laut.</l>
+					<l>Umhüllt vom Purpurkleide,</l>
+					<l>Im Zelt der Herzog sitzt;</l>
+					<l>Viel goldenes Geschmeide</l>
+					<l>An Hals und Brust ihm blitzt.</l>
+					<l>Doch finster hat zur Erde</l>
+					<l>Sein Auge sich gewandt;</l>
+					<l>Die Rechte mit dem Schwerte</l>
+					<l>Durchgräbt des Bodens Sand.</l>
+					<l>Es sitzet ihm zur Seite</l>
+					<l>Arnim, der Feldmarschall;</l>
+					<l>Deß Blick schweift in die Weite</l>
+					<l>Hin nach der Festung Wall.</l>
+					<l>Er spricht: Nun selbst erfahren</l>
+					<l>Habt Ihr der Bürger Muth!</l>
+					<l>Geschützt sind vor Gefahren</l>
+					<l>Sie durch der Osisee Flut!</l>
+					<l>Könnt Ihr der Feinde Flotte</l>
+					<l>Nicht bohren in den Grund,</l>
+					<l>So steht zu ihrem Spotte</l>
+					<l>Noch lang’ Ihr vor Stralsund!</l>
+					<l>Da hebt von seinem Sitze</l>
+					<l>Sich Friedland stol empor,</l>
+					<l>Ihm sprühn des Zornes Blite</l>
+					<l>Aus dunklem Auge vor.</l>
+					<l>Es schleudert in die Fluten</l>
+					<l>Den Dänen diese Hand!</l>
+					<l>Den Schweden jagt mit Ruthen</l>
+					<l>Sie aus dem deutschen Land!</l>
+					<l>Bei Gottl Stralsund erretten.</l>
+					<l>Soll keine Macht der Welt,</l>
+					<l>Und hing’ es auch mit Ketten</l>
+					<l>Fest an dem Himmelszelt!</l>
+					<l>Der Herzog ruft’s im Grimme;</l>
+					<l>Da rauscht und ächzt zugleich</l>
+					<l>Es schaurig, wie die Stimme</l>
+					<l>Der Geister, im Gezweig.</l>
+					<l>Er hört’s und schauet düster</l>
+					<l>Nach dem Geräusch empor,</l>
+					<l>Bis es, ein leis Geflüster,</l>
+					<l>Im Baume sich verlor.</l>
+					<l>Mit fragender Geberde</l>
+					<l>Blickt ihn der Marschall an;</l>
+					<l>Der Herzog sah zur Erde,</l>
+					<l>Bis lachend er begann:</l>
+					<l>Was ists! Die Winde brausen!</l>
+					<l>Er greift in Hast zum Wein,</l>
+					<l>Und schenkt mit innerm Grausen</l>
+					<l>Für sich und Arnim ein.</l>
+					<l>Stoßt an und laßt uns trinken!</l>
+					<l>Es gilt der Festung Fall!</l>
+					<l>In Kurzem soll sie sinken</l>
+					<l>Trotz Meeresflut und Wall!</l>
+					<l>Die Becher sind erklungen</l>
+					<l>In der erhobnen Hand,</l>
+					<l>Und Friedlands Glas, zersprungen,</l>
+					<l>Fiel klirrend in den Sand.</l>
+					<l>Mit fragender Geberde</l>
+					<l>Blickt ihn der Marschall an;</l>
+					<l>Der Herzog sah zur Erde,</l>
+					<l>Bis lachend er begann:</l>
+					<l>Was ists! Ich stieß zu heftig!</l>
+					<l>Bringt Gläser uns herbei!</l>
+					<l>Ein Diener holt geschäftig</l>
+					<l>Der frischen Becher zwei.</l>
+					<l>Stoßt an! Wir müssen trinken</l>
+					<l>Auf dieser Festung Fall,</l>
+					<l>Und morgen soll sie sinken!</l>
+					<l>Stoßt an, Herr Feldmarschall!</l>
+					<l>Anstießen sie bedächtig;</l>
+					<l>Es klang so hell und rein,</l>
+					<l>Und bei dem Klange mächtig</l>
+					<l>Auflachte Wallenstein.</l>
+					<l>Doch oben durch die Eiche</l>
+					<l>Rauscht es wie Geisterton,</l>
+					<l>Als sprächen alle Zweige</l>
+					<l>Dem Schwur des Herzogs Hohn.</l>
+					<l>Und sieh! der Festung Wälle</l>
+					<l>Umzuckt’ es, Blitz auf Blitz,</l>
+					<l>Und seine Eisenbälle</l>
+					<l>Entsandte das Geschütz.</l>
+					<l>Der Herzog an die Lippen</l>
+					<l>Setzt schon des Bechers Rand;</l>
+					<l>Doch eh’ er konnte nippen,</l>
+					<l>Entfuhr das Glas der Hand.</l>
+					<l>Des Weines Tropfen spritzten</l>
+					<l>Um Kinn und Bart und Mund,</l>
+					<l>Des Bechers Scherben ritzten</l>
+					<l>Die blasse Wang’ ihm wund.</l>
+					<l>Und der noch nie gezittert</l>
+					<l>In heißer Schlachten Glut,</l>
+					<l>Ein Glas, vom Schuß zersplittert,</l>
+					<l>Brach ihm den kecken Muth.</l>
+					<l>Mit fragender Geberde</l>
+					<l>Blickt ihn der Marschall an;</l>
+					<l>Der Herzog sah zur Erde,</l>
+					<l>Bis düster er begann:</l>
+					<l>Mit Menschen wollt’ ich fechten</l>
+					<l>Und hoffte Ruhm und Sieg,</l>
+					<l>Doch mit des Schicksals Mächten</l>
+					<l>Führt Friedland nimmer Krieg!</l>
+					<l>Abziehn wir von der Feste,</l>
+					<l>Sobald der Morgen graut!</l>
+					<l>Da rauscht es durch die Aeste</l>
+					<l>Wie heller Jubellaut.</l>
+					<l>Noch steht die Herzogseiche.</l>
+					<l>Da sammelt jedes Jahr</l>
+					<l>Im Schatten ihrer Zweige</l>
+					<l>Sich froh der Bürger Schaar.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.027</idno>
+					</title>
+					<title n="Geschichtslyrik">Fehrbellin</title>
+					<author n="Geschichtslyrik">Minding, Julius</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">ehrhellin.</head>
+					<l>Herr Kurfürst Friehdrich Wilhelm, der große Kriegesheld,</l>
+					<l>Seht, wie er auf dem Schimmel vor den Geschützen hält!</l>
+					<l>Das war ein rasches Reiten vom Rhein bis an den Rhin,</l>
+					<l>Das war ein heißes Streiten am Tag von Fehrbellin.</l>
+					<l>Wollt ihr, ihr trotz’gen Schweden, noch mehr vom deutschen</l>
+					<l>Land?</l>
+					<l>Was tragt ihr in die Marken den wüth’gen Kriegesbrand?</l>
+					<l>Herr Ludwig von der Seine, der hat euch aufgehetzt,</l>
+					<l>Daß Deutschland von der Peene zum Elsaß werd’ zerfetzt.</l>
+					<l>Doch nein, Graf Gustav Wrangel, hier steh’ nun einmal still!</l>
+					<l>Dort kommt Herr Friedrich Wilhelm, der mit dir reden</l>
+					<l>will.</l>
+					<l>Gesellschaft aller Arten bringt er im raschen Ritt</l>
+					<l>Samt Fahnen und Standarten zur Unterhaltung mit.</l>
+					<l>Nun seht ihn auf dem Schimmel, ein Kriegsgott ist er traun!</l>
+					<l>Den Boden dort zum Tanze will er genau beschaun;</l>
+					<l>Und unter seinen Treuen da reitet hintenan</l>
+					<l>Zuletzt, doch nicht aus Scheuen, Stallmeister Froben an.</l>
+					<l>Und wie Herr Wrangel drüben den Schimmel nun erblickt,</l>
+					<l>Ruft er den Kanonieren: Ihr Kinder, zielt geschickt!</l>
+					<l>Der auf dem Schimmel sitzet, der große Kurfürst ists.</l>
+					<l>Nun donnert und nun blitzet, auf wens geschieht, ihr</l>
+					<l>wißt’s!</l>
+					<l>Die donnern und die blitzen und zielen wohl nichts Schlecht’s,</l>
+					<l>Und um den Herren fallen die Seinen links und rechts.</l>
+					<l>Dem Dörflinger, dem Alten, fast wird es ihm zu warm;</l>
+					<l>Er ist kein Freund vom Halten mit dem Gewehr im Arm.</l>
+					<l>Und dicht und immer dichter schlägt in die Heeresreih’n</l>
+					<l>Dort in des Schimmels Nähe der Kugelregen ein.</l>
+					<l>Um Gott, Herr Kurfürst, weichet! Der Kurfürst hört es</l>
+					<l>nicht;</l>
+					<l>Es schaut sein Blick, der gleiche, dem Feind in’s Angesicht.</l>
+					<l>Der Schimmel mocht’ es ahnen, wem dieses Feuer gilt;</l>
+					<l>Er steigt und schäumt im Zügel, er hebt sich scheu und</l>
+					<l>wild.</l>
+					<l>Die Herren alle bangen, doch sagt’s ihm keiner an;</l>
+					<l>Wär’ doch nicht rückwärts gangen, der fürstlich große Mann.</l>
+					<l>O Preußen, damals wägte auf eines Auges Blick,</l>
+					<l>Auf eines Zolles Breite sich furchtbar dein Geschick!</l>
+					<l>O Zollern, deine Krone, o Friederich, dein Ruhm!</l>
+					<l>Hier galt’s im Ahn dem Sohne, im Hut dem Königthum.</l>
+					<l>Hier galt es Sieg und Freiheit ob nord’scher Uebermacht,</l>
+					<l>Und wer, wenn er gefallen, wer schlüge seine Schlacht?</l>
+					<l>Nicht Homburgs edle Hitze, nicht Dörflings rauher Muth,</l>
+					<l>Nicht Grumbkows Säbelspitze, nicht Heer noch Landsturm</l>
+					<l>Und doch, der Tod ist nahe und mäht um ihn herum,</l>
+					<l>Und Alles zagt und trauert und Alles bleibet stumm.</l>
+					<l>Die Scheibe ist der Schimmel, das merket Jeder nun;</l>
+					<l>Doch helfen mag der Himmel, von uns kann’s Keiner thun.</l>
+					<l>Da reitet zu dem Fürsten Emanuel Froben her</l>
+					<l>Herr Kurfürst, Euer Schimmel, er scheut sich vor’m Gewehr;</l>
+					<l>Das Thier zeigt seine Launen, Ihr bringt’s nicht ins Gefecht,</l>
+					<l>So nehmt nur meinen Braunen, ich reit’s indeß zurecht.</l>
+					<l>Der Herr schaut ihm herüber: Es ist mein Lieblingsroß,</l>
+					<l>Doch das verstehst du besser, so reit’ es nur zum Troß</l>
+					<l>Sie wechseln still, dann sprenget rasch, ohne Gruß und Wort,</l>
+					<l>Den Zügel lang verhänget, der edle Froben fort.</l>
+					<l>Und weit von seinem Herren hält er zu Rosse nun.</l>
+					<l>Für wenig Augenblicke scheint das Geschütz zu ruhn;</l>
+					<l>Der Kurfürst selber sinnet, warum es jetzt verstummt,</l>
+					<l>Und: wacker war’s gemeinet, der alte Dörfling brummt.</l>
+					<l>Da plötzlich donnert’s wieder gewaltig übers Feld,</l>
+					<l>Doch nur nach einem Punkte ward das Geschütz gestellt;</l>
+					<l>Hoch auf der Schimmel setzet, Herr Froben sinkt zum Sand,</l>
+					<l>Und Roß und Reiter netzet mit seinem Blut das Land.</l>
+					<l>Die Ritter alle schauen gar ernst und treu darein.</l>
+					<l>O Froben dort am Boden, wie glänzt dein Ruhmesschein!</l>
+					<l>Der Kurfürst ruft nur leise:—, Ha! war das so gemeint?</l>
+					<l>Und dann nach Feldherrnweise: Nun vorwärts in den</l>
+					<l>Feind!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.028</idno>
+					</title>
+					<title n="Geschichtslyrik">Prinz Eugen, der edle Ritter</title>
+					<author n="Geschichtslyrik">Freiligrath, Ferdinand</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Prinz Engen, der edle Zitter.</head>
+					<l>Zelte, Posten, WerdaRufer!</l>
+					<l>Lust’ge Nacht am Donauufer!</l>
+					<l>Pferde stehn im Kreis umher</l>
+					<l>Angebunden an den Pflöcken;</l>
+					<l>An den engen Sattelböcken</l>
+					<l>Hangen Karabiner schwer.</l>
+					<l>Um das Feuer auf der Erde,</l>
+					<l>Vor den Hufen seiner Pferde</l>
+					<l>Liegt das östreich’sche Piket.</l>
+					<l>Auf dem Mantel liegt ein Jeder,</l>
+					<l>Von den Tschako’s weht die Feder,</l>
+					<l>Leutnant würfelt und Kornet.</l>
+					<l>Neben seinem müden Schecken</l>
+					<l>Ruht auf einer woll’nen Decken</l>
+					<l>Der Trompeter ganz allein:</l>
+					<l>Laßt die Knöchel, laßt die Karten!</l>
+					<l>Kaiserliche Feldstandarten</l>
+					<l>Wird ein Reiterlied erfreun!</l>
+					<l>Vor acht Tagen die Affaire</l>
+					<l>Hab’ ich, zu Nutz dem ganzen Heere,</l>
+					<l>In gehör’gen Reim gebracht,</l>
+					<l>Selber auch gesetzt die Noten:</l>
+					<l>Drum, ihr Weißen und ihr Rothen,</l>
+					<l>Merket auf und gebet Acht!</l>
+					<l>Und er singt die neue Weise</l>
+					<l>Einmal, zweimal, dreimal leise</l>
+					<l>Denen Reitersleuten vor;</l>
+					<l>Und wie er zum letzten Male</l>
+					<l>Endet, bricht mit einem Male</l>
+					<l>Los der volle, kräft’ge Chor:</l>
+					<l>Prinz Eugen, der edle Ritter!</l>
+					<l>Hei, das klang wie Ungewitter</l>
+					<l>Weit in’s Türkenlager hin.</l>
+					<l>Der Trompeter thät den Schnurrbart streichen</l>
+					<l>Und sich auf die Seite schleichen</l>
+					<l>Zu der Marketenderin.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.029</idno>
+					</title>
+					<title n="Geschichtslyrik">Prinz Eugen, der edle Ritter</title>
+					<author n="Geschichtslyrik">Anonym</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Prinz Gngenins, der dle itter.</head>
+					<l>Prinz Eugenius, der edle Ritter,</l>
+					<l>Wollt’ dem Kaiser wied’rum kriegen</l>
+					<l>Stadt und Festung Belgarad.</l>
+					<l>Er ließ schlagen einen Brucken,</l>
+					<l>Daß man kunnt’ hinüber rucken</l>
+					<l>Mit d’r Armee wohl für die Stadt.</l>
+					<l>Als der Brucken nun war geschlagen,</l>
+					<l>Daß man kunnt’ mit Stuck und Wagen</l>
+					<l>Frei passir’n den Donaufluß:</l>
+					<l>Bei Semlin schlug man das Lager,</l>
+					<l>Alle Türken zu verjagen,</l>
+					<l>Jhn’n zum Spott und zum Verdruß.</l>
+					<l>Am einundzwanzigsten August so eben</l>
+					<l>Kam ein Spion bei Sturm und Regen,</l>
+					<l>Schwur’s dem Prinzen und zeigt’s ihm an,</l>
+					<l>Daß die Türken futragiren,</l>
+					<l>So viel als man kunnt’ verspüren,</l>
+					<l>An die dreimalhunderttausend Mann.</l>
+					<l>Als Prinz Eugenius dies vernommen,</l>
+					<l>Ließ er gleich zusammenkommen</l>
+					<l>Seine General und Feldmarschall.</l>
+					<l>Er thät sie recht instrugiren,</l>
+					<l>Wie man sollt’ die Truppen führen</l>
+					<l>Und den Feind recht greifen an.</l>
+					<l>Bei der Parole thät’ er befehlen,</l>
+					<l>Daß man sollt’ die Zwölfe zählen</l>
+					<l>Bei der Uhr um Mitternacht.</l>
+					<l>Da sollt’ All’s zu Pferd aufsitzen,</l>
+					<l>Mit dem Feinde zu scharmützen,</l>
+					<l>Was zum Streit nur hätte Kraft.</l>
+					<l>Alles saß auch gleich zu Pferde,</l>
+					<l>Jeder griff nach seinem Schwerte,</l>
+					<l>Ganz still rückt’ man aus der Schanz.</l>
+					<l>Die Musketier wie auch die Reiter</l>
+					<l>Thäten alle tapfer streiten:</l>
+					<l>’s war fürwahr ein schöner Tanz!</l>
+					<l>Ihr Constabler auf der Schanze,</l>
+					<l>Spielet auf zu diesem Tanze</l>
+					<l>Mit Karthaunen groß und klein,</l>
+					<l>Mit den großen, mit den kleinen—</l>
+					<l>Auf die Türken, auf die Heiden,</l>
+					<l>Daß sie laufen all’ davon!</l>
+					<l>Prinz Eugenius wohl auf der Rechten</l>
+					<l>Thät’ als wie ein Löwe fechten,</l>
+					<l>Als General und Feldmarschall.</l>
+					<l>Prinz Ludewig ritt auf und nieder;</l>
+					<l>Halt’t euch brav, ihr deutschen Brüder,</l>
+					<l>Greift den Feind nur herzhaft an!</l>
+					<l>Prinz Ludewig, der mußt’ aufgeben</l>
+					<l>Seinen Geist und junges Leben,</l>
+					<l>Ward getroffen von dem Blei.</l>
+					<l>Prinz Eugen war sehr betrübet,</l>
+					<l>Weil er ihn so sehr geliebet;</l>
+					<l>Ließ ihn bring’n nach Peterwardein.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.030</idno>
+					</title>
+					<title n="Geschichtslyrik">Der Choral von Leuthen</title>
+					<author n="Geschichtslyrik">Besser, Hermann</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Der Thorul bon Tenthen.</head>
+					<l>Gesiegt hat Friedrichs kleine Schaar. Rasch über Berg und</l>
+					<l>Von dannen zog das Kaiserheer im Abendsonnenstrahl.</l>
+					<l>Die Preußen stehn auf Leuthens Feld, das heiß noch von der</l>
+					<l>Schlacht,</l>
+					<l>Des Tages Schreckenswerke rings umschleiert mild die Nacht.</l>
+					<l>Doch dunkel ist’s hier unten nur, am Himmel Licht an Licht,</l>
+					<l>Die goldnen Sterne ziehn herauf wie Sand am Meer so</l>
+					<l>dicht,</l>
+					<l>Sie strahlen so besonders heut, so festlich hehr ihr Lauf</l>
+					<l>Es ist, als wollten sagen sie: Ihr Sieger, blicket auf!</l>
+					<l>Und nicht umsonst. Der Preuße fühlt’s: es war ein großer</l>
+					<l>Drum still im ganzen Lager ist’s, nicht Jubel noch Gelag, 10</l>
+					<l>So still, so ernst die Krieger all’, kein Lachen und kein</l>
+					<l>Spott—</l>
+					<l>Auf einmal tönt es durch die Nacht: ,Nun danket alle Gott!</l>
+					<l>Der Alte, dems mit Macht entuoll, singt’s fort, doch nicht</l>
+					<l>allein,</l>
+					<l>Kam’raden um ihn her im Kreis, gleich stimmen sie mit ein.</l>
+					<l>Die Nachbarn treten zu, es wächst lawinengleich der Chor, 15</l>
+					<l>Und voller, immer voller steigt der Lobgesang empor.</l>
+					<l>Aus allen Zelten strömt’s, es reiht sich singend Schaar an</l>
+					<l>Schaar,</l>
+					<l>Einfallen jetzt die Jäger, jetzt fällt ein auch der Husar.</l>
+					<l>Auch Musika will feiern nicht, zu reiner Harmonie</l>
+					<l>Lenkt Horn, Hobo’ und Klarinett die heil’ge Melodie.</l>
+					<l>Und stärker noch und lauker noch, es schwillt der Strom zum</l>
+					<l>Meer:</l>
+					<l>Am Ende, wie aus einem Mund, singt rings das ganze Heer.</l>
+					<l>Im Echo donnernd wiederhallt’s das aufgeweckte Thal,</l>
+					<l>Wie hundert Orgeln braust hinan zum Himmel der Choral.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.031</idno>
+					</title>
+					<title n="Geschichtslyrik">Der König und der Müller</title>
+					<author n="Geschichtslyrik">Curtmann, Wilhelm Jakob Georg</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Der änig und der üller.</head>
+					<l>Es wohnt ein Müller sorgenfrei</l>
+					<l>In seiner kleinen Mühle.</l>
+					<l>Das Mühlchen klappert Brot herbei</l>
+					<l>Bei Sonnenbrand und Kühle.</l>
+					<l>Nicht weit davon ein König hatt’</l>
+					<l>Ein Schloß sich aufgebauet.</l>
+					<l>Wär’ nicht die Mühl’, man hätte Stadt</l>
+					<l>Und Land draus überschauet.</l>
+					<l>Der König bot dem Müller Geld:</l>
+					<l>Verkauf’ mir deine Hütte!</l>
+					<l>Bau neu sie auf, wo dir’s gefällt,</l>
+					<l>Nach größerm Maß und Schnitte.—</l>
+					<l>Mein Mühlchen ist mir gut genug,</l>
+					<l>Das lass’ ich meinen Erben;</l>
+					<l>Es tragt des Vaters Segensspruch,</l>
+					<l>Hier will ich ruhig sterben. —</l>
+					<l>Der Fürst sagt ja, der Müller nein;</l>
+					<l>Der Fürst wird ungeduldig.</l>
+					<l>Ich bin dein Herr; das Land ist mein;</l>
+					<l>Du bist zu weichen schuldig!—</l>
+					<l>Ich weiche nicht. —Dann muß Gewalt</l>
+					<l>Den starren Sinn dir beugen.—</l>
+					<l>Ihr irret, Herr, Euch werden bald</l>
+					<l>Die Richter andres zeigen.</l>
+					<l>Die Richter? — fällt dem König ein,</l>
+					<l>Die selbst er eingesetzet —</l>
+					<l>Da hast du Recht; — ich geb’ mich drein,</l>
+					<l>Dein Gut bleibt unverletzet!</l>
+					<l>Seit jener Stunde lebten sie</l>
+					<l>Als Freunde, hoch und niedrig.</l>
+					<l>Des Schlosses Nam’ ist Sanssouci,</l>
+					<l>Des Königs Name Friedrich.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.032</idno>
+					</title>
+					<title n="Geschichtslyrik">Der alte Zieten</title>
+					<author n="Geschichtslyrik">Fontane, Theodor</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Der alte iethen.</head>
+					<l>Joachim Hans von Ziethen,</l>
+					<l>Husaren—General,</l>
+					<l>Dem Feind die Stirne bieten</l>
+					<l>Thät er die hundert Mal.</l>
+					<l>Sie haben’s all’ erfahren,</l>
+					<l>Wie er die Pelze wusch</l>
+					<l>Mit seinen Leibhusaren,</l>
+					<l>Der Ziethen aus dem Busch.</l>
+					<l>Hei, wie den Feind sie bläuten</l>
+					<l>Bei Lowositz und Prag,</l>
+					<l>Bei Liegnitz und bei Leuthen,</l>
+					<l>Und weiter, Schlag auf Schlag!</l>
+					<l>Bei Torgau, Tag der Ehre,</l>
+					<l>Ritt selbst der Fritz nach Haus,</l>
+					<l>Doch Ziethen sprach: Ich kehre</l>
+					<l>Erst noch mein Schlachtfeld aus.</l>
+					<l>Sie kamen nie alleine,</l>
+					<l>Der Ziethen und der Fritz,</l>
+					<l>Der Donner war der eine,</l>
+					<l>Der andre war der Blitz.</l>
+					<l>Es wies sich Keiner träge,</l>
+					<l>Drum schlug’s auch immer ein,</l>
+					<l>Ob warm’, ob kalte Schläge,</l>
+					<l>Sie pflegten gut zu sein.</l>
+					<l>Der Friede war geschlossen;</l>
+					<l>Doch Krieges Lust und Qual—</l>
+					<l>Die alten Schlachtgenossen</l>
+					<l>Durchlebten’s noch einmal.</l>
+					<l>Wie Marschall Daun gezaudert,</l>
+					<l>Und Fritz und Ziethen nie,</l>
+					<l>Das ward jetzt durchgeplaudert</l>
+					<l>Bei Tisch in Sanssouci.</l>
+					<l>Einst mocht’ es ihm nicht schmecken,</l>
+					<l>Und sieh, der Ziethen schlief.</l>
+					<l>Ein Höfling will ihn wecken,</l>
+					<l>Der König aber rief:</l>
+					<l>Laßt schlafen mir den Alten!</l>
+					<l>Er hat in mancher Nacht</l>
+					<l>Für uns sich wach gehalten —</l>
+					<l>Der hat genug gewacht!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.033</idno>
+					</title>
+					<title n="Geschichtslyrik">Das Lied vom Schill</title>
+					<author n="Geschichtslyrik">Arndt, Ernst Moritz</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Dus Rid hon Sehill.</head>
+					<l>Es zog aus Berlin ein tapferer Held,</l>
+					<l>Er führte sechshundert Reiter ins Feld,</l>
+					<l>Sechshundert Reiter mit redlichem Muth,</l>
+					<l>Sie dürsteten alle Franzosenblut.</l>
+					<l>Auch zogen mit Reitern und Rossen im Schritt</l>
+					<l>Wohl tausend der tapfersten Schützen mit;</l>
+					<l>Ihr Schützen, Gott segne euch jeglichen Schuß,</l>
+					<l>Durch welchen ein Franzmann erblassen muß!</l>
+					<l>So ziehet der tapfre, der muthige Schill,</l>
+					<l>Der mit den Franzosen schlagen sich will;</l>
+					<l>Ihn sendet kein Kaiser, kein König aus,</l>
+					<l>Ihn sendet die Freiheit, das Vaterland aus.</l>
+					<l>Bei Dodendorf färbten die Männer gut</l>
+					<l>Das fette Land mit französischem Blut;</l>
+					<l>Zweitausend zerhieben die Säbel blank,</l>
+					<l>Die übrigen machten die Beine lang.</l>
+					<l>Drauf stürmten sie Dömitz, das feste Haus,</l>
+					<l>Und jagten die Schelmenfranzosen hinaus;</l>
+					<l>Dann zogen sie lustig ins Pommerland ein,</l>
+					<l>Da soll kein Franzose sein Kiwi mehr schrei’n.</l>
+					<l>Auf Stralsund stürmte der reisige Zug;</l>
+					<l>O Franzosen, verstündet ihr Vogelflug!</l>
+					<l>O wüchsen euch Federn und Flügel geschwind!</l>
+					<l>Es nahet der Schill, und er reitet wie Wind.</l>
+					<l>Er reitet wie Wetter hinein in die Stadt,</l>
+					<l>Wo der Wallenstein weiland verlegen sich hat,</l>
+					<l>Wo der zwölfte Karolus im Thore schlief;</l>
+					<l>Jetzt liegen ihre Mauren und Thürme tief.</l>
+					<l>O weh euch Franzosen! wie mäht der Tod!</l>
+					<l>Wie färben die Reiter die Säbel roth!</l>
+					<l>Die Reiter sie fühlen das deutsche Blut,</l>
+					<l>Franzosen zu tödten, das däucht ihnen gut.</l>
+					<l>O wehe dir, Schill! du tapferer Held!</l>
+					<l>Was sind dir für bübische Netze gestellt!</l>
+					<l>Viele ziehen zu Lande, es schleichet vom Meer</l>
+					<l>Der Däne, die tückische Schlange, daher.</l>
+					<l>O Schill! o Schill! du tapferer Held!</l>
+					<l>Was sprengst du nicht mit den Reitern ins Feld?</l>
+					<l>Was schließest in Mauern die Tapferkeit ein?</l>
+					<l>Bei Stralsund da sollst du begraben sein.</l>
+					<l>O Stralsund, du trauriges Stralesund!</l>
+					<l>In dir geht das tapferste Herz zu Grund’,</l>
+					<l>Eine Kugel durchbohret das redlichste Herz,</l>
+					<l>Und Buben sie treiben mit Helden Scherz.</l>
+					<l>Da schreiet ein frecher Franzosenmund:</l>
+					<l>Man soll ihn begraben wie einen Hund,</l>
+					<l>Wie einen Schelm, der auf Galgen und Rad</l>
+					<l>Schon fütterte Krähen und Raben satt.</l>
+					<l>So trugen sie ihn ohne Sang und Klang,</l>
+					<l>Ohne Pfeifengetön, ohne Trommelklang,</l>
+					<l>Ohne Kanonenmusik und Flintengruß,</l>
+					<l>Womit man Soldaten begraben muß.</l>
+					<l>Sie schnitten den Kopf von dem Rumpf ihm ab</l>
+					<l>Und legten den Leib in ein schlechtes Grab;</l>
+					<l>Da liegt er nun bis an den jüngsten Tag,</l>
+					<l>Wo Gott ihn in Freuden erwecken mag..</l>
+					<l>Da schläft nun der fromme, der tapfre Held,</l>
+					<l>Ihm ward kein Stein zum Gedächtniß gestellt;</l>
+					<l>Doch hat er gleich keinen Ehrenstein,</l>
+					<l>Sein Name wird nimmer vergessen sein.</l>
+					<l>Denn sattelt ein Reiter sein schnelles Pferd,</l>
+					<l>Und schwinget ein Reiter sein blankes Schwert,</l>
+					<l>So rufet er zornig: Herr Schill! Herr Schill!</l>
+					<l>Ich an den Franzosen euch rächen will.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.034</idno>
+					</title>
+					<title n="Geschichtslyrik">Andreas Hofer</title>
+					<author n="Geschichtslyrik">Mosen, Julius</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">ofers Tod.</head>
+					<l>Zu Mantua in Banden</l>
+					<l>Der treue Hofer war,</l>
+					<l>In Mantua zum Tode</l>
+					<l>Führt ihn der Feinde Schaar;</l>
+					<l>Es blutete der Brüder Herz,</l>
+					<l>Ganz Deutschland, ach! in Schmach und Schmerz,</l>
+					<l>Mit ihm das Land Throl.</l>
+					<l>Die Hände auf dem Rücken</l>
+					<l>Der Sandwirth Hofer ging,</l>
+					<l>Mit ruhig festen Schritten,</l>
+					<l>Ihm schien der Tod gering,</l>
+					<l>Der Tod, den er so manches Mal</l>
+					<l>Vom Jselberg geschickt in’s Thal,</l>
+					<l>Im heil’gen Land Throl.</l>
+					<l>Doch als aus Kerkergittern</l>
+					<l>Im festen Mantua</l>
+					<l>Die treuen Waffenbrüder</l>
+					<l>Die Händ’ er strecken sah,</l>
+					<l>Da rief er laut: Gott sei mit euch,</l>
+					<l>Mit dem verrathnen deutschen Reich</l>
+					<l>Und mit dem Land Trol!</l>
+					<l>Dem Tambour will der Wirbel</l>
+					<l>Nicht unterm Schlägel vor,</l>
+					<l>Als nun der Sandwirth Hofer</l>
+					<l>Schritt durch das finstre Thor.</l>
+					<l>Der Sandwirth noch in Banden frei,</l>
+					<l>Dort stand er fest auf der Bastei,</l>
+					<l>Der Mann vom Land Trol</l>
+					<l>Dort soll er niederknieen,</l>
+					<l>Er sprach: Das thu’ ich nit!</l>
+					<l>Will sterben, wie ich stehe,</l>
+					<l>Will sterben, wie ich stritt,</l>
+					<l>So wie ich steh’ auf dieser Schanz’:</l>
+					<l>Es leb’ mein guter Kaiser Franz,</l>
+					<l>Mit ihm sein Land Trol!</l>
+					<l>Und von der Hand die Binde</l>
+					<l>Nimmt ihm der Korporal,</l>
+					<l>Und Sandwirth Hofer betet</l>
+					<l>Allhier zum letztenmal;</l>
+					<l>Dann ruft er: Nun, so trefft mich recht!</l>
+					<l>Gebt Feuer! — Ach, wie schießt ihr schlecht!</l>
+					<l>Ade, mein Land Throl!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.035</idno>
+					</title>
+					<title n="Geschichtslyrik">Der Trompeter an der Katzbach</title>
+					<author n="Geschichtslyrik">Mosen, Julius</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">er Trompeter un der Jntzbuch.</head>
+					<l>Von Wunden ganz bedecket,</l>
+					<l>Der Trompeter sterbend ruht,</l>
+					<l>An der Katzbach hingestrecket,</l>
+					<l>Der Brust entguillt das Blut.</l>
+					<l>Brennt auch die Todeswunde,</l>
+					<l>Doch sterben kann er nicht,</l>
+					<l>Bis neue Siegeskunde</l>
+					<l>Zu seinen Ohren bricht.</l>
+					<l>Und wie er schmerzlich ringet</l>
+					<l>In Todesängsten bang,</l>
+					<l>Zu ihm herüberdringet</l>
+					<l>Ein wohlbekannter Klang.</l>
+					<l>Das hebt ihn von der Erde,</l>
+					<l>Er streckt sich starr und wild.</l>
+					<l>Dort sitzt er auf dem Pferde</l>
+					<l>Als wie ein steinern Bild.</l>
+					<l>Und die Trompete schmettert —</l>
+					<l>Fest hält sie seine Hand —</l>
+					<l>Und wie ein Donner wettert</l>
+					<l>Victoria in das Land.</l>
+					<l>Victoria — so klang es,</l>
+					<l>Victoria — überall</l>
+					<l>Victoria — so drang es</l>
+					<l>Hervor im kräft’gen Schall.</l>
+					<l>Doch als es ausgeklungen,</l>
+					<l>Setzt die Trompet’ er ab,</l>
+					<l>Das Herz ist ihm zersprungen,</l>
+					<l>Vom Roß stürzt er herab.</l>
+					<l>Um ihn herum im Kreise</l>
+					<l>Hielt’s ganze Regiment.</l>
+					<l>Der Feldmarschall sprach leise:</l>
+					<l>Das heißt ein selig End!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.036</idno>
+					</title>
+					<title n="Geschichtslyrik">Das Lied vom Feldmarschall</title>
+					<author n="Geschichtslyrik">Arndt, Ernst Moritz</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Dus Tied vom Feldmarschall.</head>
+					<l>Was blasen die Trompeten? Husaren, heraus!</l>
+					<l>Es reitet der Feldmarschall im fliegenden Saus;</l>
+					<l>Er reitet so freudig sein muthiges Pferd,</l>
+					<l>Er schwinget so schneidig sein blitzendes Schwert.</l>
+					<l>O schauet, wie ihm leuchten die Augen so klar!</l>
+					<l>O schauet, wie ihm wallet sein schneeweißes Haar!</l>
+					<l>So frisch blüht sein Alter wie greisender Wein,</l>
+					<l>Drum kann er Verwalter des Schlachtfeldes sein.</l>
+					<l>Der Mann ist er gewesen, als alles versank,</l>
+					<l>Der muthig auf gen Himmel den Degen noch schwang;</l>
+					<l>Da schwur er beim Eisen gar zornig und hart,</l>
+					<l>Den Wälschen zu weisen die deutsche Art.</l>
+					<l>Den Schwur hat er gehalten. Als Kriegsruf erklang,</l>
+					<l>Hei! wie der weiße Jüngling in’n Sattel sich schwang!</l>
+					<l>Da ist er’s gewesen, der Kehraus gemacht,</l>
+					<l>Mit eisernem Besen das Land rein gemacht.</l>
+					<l>Bei Lützen auf der Aue, da hielt er solchen Strauß,</l>
+					<l>Daß vielen tausend Wälschen der Athem gieng aus,</l>
+					<l>Viel Tausende liefen dort hasigen Lauf,</l>
+					<l>Zehntausend entschliefen, die nimmer wachen auf.</l>
+					<l>Am Wasser der Katzbach er’s auch hat bewährt,</l>
+					<l>Da hat er den Franzosen das Schwimmen gelehrt:</l>
+					<l>Fahrt wohl, ihr Franzosen, zur Ostsee hinab!</l>
+					<l>Und nehmt, Ohnehosen, den Wallfisch zum Grab!</l>
+					<l>Bei Wartburg an der Elbe wie fuhr er hindurch!</l>
+					<l>Da schirmte die Franzosen nicht Schanze noch Burg,</l>
+					<l>Da mußten sie springen wie Hasen über’s Feld</l>
+					<l>Und hell ließ erklingen sein Hussa! der Held.</l>
+					<l>Bei Leipzig auf dem Plane, o herrliche Schlacht!</l>
+					<l>Da brach er den Franzosen das Glück und die Macht,</l>
+					<l>Da liegen sie so sicher nach blutigem Fall,</l>
+					<l>Da ward der Herr Blücher ein Feldmarschall.</l>
+					<l>Drum blaset, ihr Trompeten! Husaren, heraus!</l>
+					<l>Du reite, Herr Feldmarschall, wie Winde im Saus!</l>
+					<l>Dem Siege entgegen zum Rhein, über’n Rhein,</l>
+					<l>Du tapferer Degen, in Frankreich hinein!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.037</idno>
+					</title>
+					<title n="Geschichtslyrik">Lützows wilde Jagd</title>
+					<author n="Geschichtslyrik">Körner, Theodor</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Lützow’s wilde Zugd.</head>
+					<l>Was glänzt dort vom Walde im Sonnenschein?</l>
+					<l>Hör’s näher und näher brausen.</l>
+					<l>Es zieht sich herunter in düsteren Reih’n,</l>
+					<l>Und gellende Hörner schallen darein,</l>
+					<l>Und erfüllen die Seele mit Grausen.</l>
+					<l>Und wenn ihr die schwarzen Gesellen fragt:</l>
+					<l>Das ist Lützow’s wilde verwegene Jagd.</l>
+					<l>Was zieht dort rasch durch den finstern Wald</l>
+					<l>Und streift von Bergen zu Bergen?</l>
+					<l>Es legt sich in nächtlichen Hinterhalt;</l>
+					<l>Das Hurrah jauchzt und die Büchse knallt,</l>
+					<l>Es fallen die fränkischen Schergen.</l>
+					<l>Und wenn ihr die schwarzen Jäger fragt:</l>
+					<l>Das ist Lützow’s wilde verwegene Jagd.</l>
+					<l>Wo die Reben dort glühen, dort braus’t der Rhein,</l>
+					<l>Der Wüthrich geborgen sich meinte,</l>
+					<l>Da naht es schnell mit Gewitterschein</l>
+					<l>Und wirft sich mit rüst’gen Armen hinein,</l>
+					<l>Und springt ans Ufer der Feinde.</l>
+					<l>Und wenn ihr die schwarzen Schwimmer fragt:</l>
+					<l>Das ist Lützow’s wilde verwegene Jagd.</l>
+					<l>Was braus’t dort im Thale die laute Schlacht?</l>
+					<l>Was schlagen die Schwerter zusammen?</l>
+					<l>Wildherzige Reiter schlagen die Schlacht,</l>
+					<l>Und der Funke der Freiheit ist glühend erwacht</l>
+					<l>Und lodert in blutigen Flammen.</l>
+					<l>Und wenn ihr die schwarzen Reiter fragt:</l>
+					<l>Das ist Lützow’s wilde verwegene Jagd.</l>
+					<l>Was scheidet dort röchelnd vom Sonnenlicht,</l>
+					<l>Unter winselnde Feinde gebettet?</l>
+					<l>Es zuckt der Tod auf dem Angesicht,</l>
+					<l>Doch die wackeren Herzen erzittern nicht;</l>
+					<l>Das Vaterland ist ja gerettet!</l>
+					<l>Und wenn ihr die schwarzen Gefallnen fragt:</l>
+					<l>Das war Lützow’s wilde verwegene Jagd.</l>
+					<l>Die wilde Jagd und die deutsche Jagd</l>
+					<l>Auf Henkersblut und Trannen!</l>
+					<l>Drum, die ihr uns liebt, nicht geweint und geklagt!</l>
+					<l>Das Land ist ja frei und der Morgen tagt,</l>
+					<l>Wenn wir’s auch nur sterbend gewannen!</l>
+					<l>Und von Enkeln zu Enkeln sei’s nachgesagt:</l>
+					<l>Das war Lützow’s wilde verwegene Jagd.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.038</idno>
+					</title>
+					<title n="Geschichtslyrik">Auf Scharnhorsts Tod</title>
+					<author n="Geschichtslyrik">Schenkendorf, Max von</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Zuk Schurnhorks Tod.</head>
+					<l>In dem wilden Kriegestanze</l>
+					<l>Brach die schönste Heldenlanze,</l>
+					<l>Preußen, euer General.</l>
+					<l>Lustig auf dem Feld bei Lützen</l>
+					<l>Sah er Freiheitswaffen blitzen,</l>
+					<l>Doch ihn traf der Todesstrahl.</l>
+					<l>Kugel! raffst mich doch nicht nieder?</l>
+					<l>Dien’ euch blutend, werthe Brüder,</l>
+					<l>Führt in Eile mich gen Prag!</l>
+					<l>Will mit Blut um Oestreich werben;</l>
+					<l>Ist’s beschlossen, will ich sterben,</l>
+					<l>Wo Schwerin im Blute lag.</l>
+					<l>Arge Stadt! wo Helden kranken,</l>
+					<l>Heil’ge von den Brücken sanken,</l>
+					<l>Reißest alle Blüthen ab;</l>
+					<l>Nennen dich mit leisen Schauern —</l>
+					<l>Aus dem irdischen Getümmel</l>
+					<l>Haben Engel in den Himmel</l>
+					<l>Seine Seele sanft geführt,</l>
+					<l>Zu dem alten deutschen Rathe,</l>
+					<l>Den im ritterlichen Staate</l>
+					<l>Ewig Kaiser Karl regiert.</l>
+					<l>Grüß' euch Gott, ihr theuern Helden!</l>
+					<l>Kann euch frohe Zeitung melden:</l>
+					<l>Unser Volk ist aufgewacht!</l>
+					<l>Deutschland hat sein Recht gefunden!</l>
+					<l>Schaut! ich trage Sühnungswunden</l>
+					<l>Aus der heil’gen Opferschlacht!</l>
+					<l>Solches hat er dort verkündet,</l>
+					<l>Und wir Alle stehn verbündet,</l>
+					<l>Daß dies Wort nicht Lüge sei.</l>
+					<l>Heer, aus seinem Geist geboren,</l>
+					<l>Jäger, die sein Muth erkoren,</l>
+					<l>Wählet ihn zum Feldgeschrei!</l>
+					<l>Zu den höchsten Bergesforsten,</l>
+					<l>Wo die freien Adler horsten,</l>
+					<l>Hat sich früh sein Blick gewandt;</l>
+					<l>Nur dem Höchsten galt sein Streben,</l>
+					<l>Nur in Freiheit konnt’ er leben,</l>
+					<l>Scharnhorst ist er drum genannt.</l>
+					<l>Keiner war wohl treuer, reiner;</l>
+					<l>Näher stand dem König Keiner, —</l>
+					<l>Doch dem Volke schlug sein Herz.</l>
+					<l>Ewig auf den Lippen schweben</l>
+					<l>Wird er, wird im Volke leben,</l>
+					<l>Besser als in Stein und Erz.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.039</idno>
+					</title>
+					<title n="Geschichtslyrik">Blücher am Rhein</title>
+					<author n="Geschichtslyrik">Kopisch, August</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Zlüeher um Fhein.</head>
+					<l>Die Heere blieben am Rheine stehn:</l>
+					<l>Soll man hinein nach Frankreich gehn?</l>
+					<l>Man dachte hin und wieder nach,</l>
+					<l>Allein der alte Blücher sprach:</l>
+					<l>Generalkarte her!</l>
+					<l>Nach Frankreich gehn ist nicht so schwer.</l>
+					<l>Wo steht der Feind? — Der Feind?— Dahier!</l>
+					<l>Den Finger drauf, den schlagen wir!</l>
+					<l>Wo liegt Paris? — Paris?— Dahier!</l>
+					<l>Den Finger drauf! das nehmen wir!</l>
+					<l>Nun schlagt die Brücken über’n Rhein;</l>
+					<l>Ich denke, der Champagnerwein</l>
+					<l>Wird, wo er wächst, am besten sein!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.040</idno>
+					</title>
+					<title n="Geschichtslyrik">Die Wacht am Rhein</title>
+					<author n="Geschichtslyrik">Schneckenburger, Max</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Die Nlucht um Bhein.</head>
+					<l>Es braust ein Ruf wie Donnerhall,</l>
+					<l>Wie Schwertgeklirr und Wogenprall:</l>
+					<l>Zum Rhein, zum Rhein, zum deutschen Rhein!</l>
+					<l>Wer will des Stromes Hüter sein?</l>
+					<l>Lieb’ Vaterland, magst ruhig sein,</l>
+					<l>Fest steht und treu die Wacht am Rhein.</l>
+					<l>Durch Hunderttausend zuckt es schnell,</l>
+					<l>Und Aller Augen blitzen hell:</l>
+					<l>Der deutsche Jüngling, fromm und stark,</l>
+					<l>Beschirmt die heil’ge Landesmark.</l>
+					<l>Lieb’ Vaterland, magst ruhig sein,</l>
+					<l>Fest steht und treu die Wacht am Rhein.</l>
+					<l>Auf blickt er in des Himmels Blau’n,</l>
+					<l>Wo todte Helden niederschau’n,</l>
+					<l>Und schwört mit stolzer Kampfeslust:</l>
+					<l>Du, Rhein, bleibst deutsch wie meine Brust!</l>
+					<l>Lieb’ Vaterland, magst ruhig sein,</l>
+					<l>Fest steht und treu die Wacht am Rhein.</l>
+					<l>Und ob mein Herz im Tode bricht,</l>
+					<l>Wirst du doch drum ein Wälscher nicht.</l>
+					<l>Reich, wie an Wasser deine Flut,</l>
+					<l>Ist Deutschland ja an Heldenblut.</l>
+					<l>Lieb’ Vaterland, magst ruhig sein,</l>
+					<l>Fest steht und treu die Wacht am Rhein.</l>
+					<l>So lang ein Tropfen Blut noch glüht,</l>
+					<l>Noch eine Faust den Degen zieht,</l>
+					<l>Und noch ein Arm die Büchse spannt,</l>
+					<l>Betritt kein Feind hier deinen Strand!</l>
+					<l>Lieb’ Vaterland, magst ruhig sein,</l>
+					<l>Fest steht und treu die Wacht am Rhein.</l>
+					<l>Der Schwur erschallt, die Woge rinnt,</l>
+					<l>Die Fahnen flattern hoch im Wind:</l>
+					<l>Zum Rhein, zum Rhein, zum deutschen Rhein!</l>
+					<l>Wir Alle wollen Hüter sein!</l>
+					<l>Lieb’ Vaterland, magst ruhig sein,</l>
+					<l>Fest steht und treu die Wacht am Rhein.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.041</idno>
+					</title>
+					<title n="Geschichtslyrik">Die Schlacht von Metz</title>
+					<author n="Geschichtslyrik">Dohm, Ernst</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">Die Sehlucht vor Fetz.</head>
+					<l>Das war eine Schlacht!</l>
+					<l>Drei Tage lang</l>
+					<l>Vom Morgen bis zur sinkenden Nacht</l>
+					<l>Der männermordende Donner kracht</l>
+					<l>Und des Todes mähende Sichel klang.</l>
+					<l>Das war eine Schlacht!</l>
+					<l>Zwischen Kampf und Kampf</l>
+					<l>Hat der Tod je einen Rasttag gemacht,</l>
+					<l>Umnebelt vom schwebenden Pulverdampf,</l>
+					<l>Satt und übersatt</l>
+					<l>Des Blutes, das er zu gierig trank,</l>
+					<l>Vom blutigen Mähen so müd’ und matt,</l>
+					<l>Daß dem knöchernen Arm die Sichel entsank.</l>
+					<l>Das war eine Schlacht!</l>
+					<l>Und als des dritten Tages Gestirn</l>
+					<l>Zur Rüste ging und von der Berge Firn’</l>
+					<l>Ihren Schattenschleier senkte die Nacht,</l>
+					<l>Da lagen, Freund und Feind,</l>
+					<l>An die Dreißigtausend vereint,</l>
+					<l>Im stummen Tode friedlich gesellt —</l>
+					<l>Ein unabsehbar Leichenfeld.</l>
+					<l>Und auf das klaffende Völkergrab</l>
+					<l>Lächelt der Mond vom Sternenzelt</l>
+					<l>Schweigend des Todes Frieden herab.</l>
+					<l>Das war eine Schlacht!</l>
+					<l>Die ihr, das Vaterland</l>
+					<l>Zu schützen vor Gewaltthat und Schand’,</l>
+					<l>Euch selber zum blutigen Opfer gebracht —</l>
+					<l>Ihr treuen Todten, du und du,</l>
+					<l>Die im Gefecht</l>
+					<l>Mit dem Leben besiegelt Deutschlands Recht,</l>
+					<l>Niedergemäht von des Todes Maht,</l>
+					<l>Ausgesät als des Friedens Saat,</l>
+					<l>Fahrt wohl, zur ewigen Ruh’!</l>
+					<l>Das war eine Schlacht!</l>
+					<l>Des Feindes Plan, so keck erdacht,</l>
+					<l>Zu Schanden gemacht,</l>
+					<l>Zerrissen, zerschlissen wie sein Heer!</l>
+					<l>Er selbst, nach knirschender Gegenwehr</l>
+					<l>Zurückgeworfen in die Feste Metz!</l>
+					<l>Dort fest umsponnen mit ehernem Netz,</l>
+					<l>Mit eiserner Klammer regungslos</l>
+					<l>An den Fels geschmiedet bewegungslos,</l>
+					<l>Aller Hülf’ und alles Entrinnens baar,</l>
+					<l>Aufbäumend in ohnmächtigem Schmerz —</l>
+					<l>Und der deutsche Aar</l>
+					<l>Stückweis ihm zerhackend das zuckende Herz</l>
+					<l>Das war eine Schlacht!</l>
+					<l>Westwärts in wehender Fahnen Pracht,</l>
+					<l>Mit klingendem Spiele dran und drauf,</l>
+					<l>In nimmer aufgehaltenem Lauf</l>
+					<l>Weit, weit übern Rhein</l>
+					<l>Nach Frankreich hinein</l>
+					<l>Deutschlands Banner tragend, sein Recht und Ehr’,</l>
+					<l>Im Sturmmarschtritt,</l>
+					<l>Im Siegesschritt,</l>
+					<l>Wäht gen Paris sich das deutsche Heer.</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+	<TEI>
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						<idno type="Geschichtslyrik">1877.Wagner.042</idno>
+					</title>
+					<title n="Geschichtslyrik">Kaiser von Deutschland</title>
+					<author n="Geschichtslyrik">Elze, Karl</author>
+				</titleStmt>
+				<publicationStmt>
+					<p />
+				</publicationStmt>
+				<sourceDesc>
+					<p />
+				</sourceDesc>
+			</fileDesc>
+			<encodingDesc>
+				<p />
+			</encodingDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<div type="poem">
+					<head type="head">niner bon Deutschlund! Zich grünsnt mein Rid.</head>
+					<l>Kaiser von Deutschland! Dich grüßt mein Lied</l>
+					<l>Mit Orgelschall und Glockenklange,</l>
+					<l>Und Alles, was in Lüften zieht,</l>
+					<l>Stimmt brausend ein zu dem Gesange!</l>
+					<l>Von unsern Bergen donnert’s nieder,</l>
+					<l>Mit unsern Wogen rauscht’s empor,</l>
+					<l>Von Strand zu Strande hallt es wieder,</l>
+					<l>Von Fels zu Fels ein Jubelchor.</l>
+					<l>Der alte Rothbart ist erwacht</l>
+					<l>Und schwingt sein Schwert vom Bergesgipfel,</l>
+					<l>Still ward die Rabenbrut der Nacht,</l>
+					<l>Und Adler jauchzen um die Wipfel:</l>
+					<l>Verjüngt ist uns das Reich erstanden,</l>
+					<l>Am Kaiserthrone kniet der Sieg.</l>
+					<l>Aus blutger Saat in Feindeslanden</l>
+					<l>Empor der Einheit Eiche stieg!</l>
+					<l>Rings fliegt durch die bekränzten Gau’n</l>
+					<l>Der Freude ahnungsselges Leben,</l>
+					<l>Mit trunknen Jünglingsaugen schaun</l>
+					<l>Hinaus wir in ein neues Leben;</l>
+					<l>Es leuchtet uns in goldnem Glanze</l>
+					<l>Ein Volkesfrühling wunderreich,</l>
+					<l>Auch in der Reiche vollem Kranze</l>
+					<l>Nicht eines prangt dem unsern gleich.</l>
+					<l>Ihr Kämpfer aus dem heil’gen Streit,</l>
+					<l>Ihr Freiheitssänger hochgemuthet,</l>
+					<l>Du Jugend treu und todbereit,</l>
+					<l>Die du gelitten und geblutet,</l>
+					<l>Erfüllt sind eures Lebens Träume,</l>
+					<l>Bald wird der Bau vollendet sein,</l>
+					<l>Nun führt in seine hohen Räume</l>
+					<l>Der Kaiser alle Brüder ein.</l>
+					<l>Du Held warst Führer uns zur Macht,</l>
+					<l>Du wirst es nun zur Freiheit werden,</l>
+					<l>Gibst frei den Geist, verscheuchst die Nacht,</l>
+					<l>Verwaltest gleiches Recht auf Erden!</l>
+					<l>O Dir fliegt jedes Herz entgegen,</l>
+					<l>Es streckt nach Dir sich jede Hand:</l>
+					<l>O schütte stets uns reichern Segen</l>
+					<l>Auf’s theure deutsche Vaterland!</l>
+				</div>
+			</body>
+		</text>
+	</TEI>
+</teiCorpus>
