@@ -6,3 +6,5 @@ resources/more/vectors/vectordist_dm_euclidean_unweighted.csv filter=lfs diff=lf
 resources/more/vectors/vectordist_dm_euclidean.csv filter=lfs diff=lfs merge=lfs -text
 resources/more/vectors/vectordist_dm_manhattan_unweighted.csv filter=lfs diff=lfs merge=lfs -text
 resources/more/vectors/vectordist_dm_manhattan.csv filter=lfs diff=lfs merge=lfs -text
+resources/meta.csv filter=lfs diff=lfs merge=lfs -text
+resources/meta.json filter=lfs diff=lfs merge=lfs -text
