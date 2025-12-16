@@ -1,6 +1,8 @@
 # Geschichtslyrik
 
-Das Repository enthält den Code und die Daten für die Arbeit *Geschichtslyrik, 1850–1918. Quantitative und qualitative Untersuchungen zur Geschichte einer Gattung* (De Gruyter, 2025).
+Das Repository enthält den Code und die Daten für folgende Arbeit:
+
+Kröncke, Merten. *Geschichtslyrik, 1850–1918: Quantitative und qualitative Untersuchungen zur Geschichte einer Gattung*, De Gruyter, 2026 (Studien und Texte zur Sozialgeschichte der Literatur 170). https://doi.org/10.1515/9783112221594
 
 ## (1) code
 Im Ordner ‚code‘ findet sich der in dieser Arbeit genutzte Python-Code. Verwendet wurden in aller Regel Jupyter Notebooks. Der Code ist, sofern alle benötigten packages installiert sind, in der bestehenden Ordnerstruktur ausführbar.
